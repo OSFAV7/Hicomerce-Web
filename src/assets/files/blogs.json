@@ -1,6 +1,6 @@
 [
   {
-    "titulo": "Agente Ejecutivo 24/7",
+    "titulo": "Agente Ejecutivo",
     "meta_descripcion": "Agentes autónomos empresariales 24/7 que automatizan procesos, aceleran ventas y reducen costos en pymes mexicanas sin conocimientos técnicos.",
     "resumen": "Los Agentes Ejecutivos Autónomos 24/7 automatizan tareas operativas y de cliente (tickets, seguimiento de leads, reportes) para empresas medianas, reduciendo horas manuales y acelerando ventas. Ofrecen ROI rápido por ahorro de tiempo, mejor respuesta al cliente y escalabilidad sin cambiar la estructura organizacional.",
     "imagen_header": "https://res.cloudinary.com/dxukuetdc/image/upload/v1778997694/llwijby7j3xtnsyw8uom.jpg",
@@ -77,7 +77,7 @@
     ]
   },
   {
-    "titulo": "AgenteOperativo 24/7",
+    "titulo": "Agente Operativo ",
     "meta_descripcion": "Tendencia: agentes autónomos empresariales que automatizan tareas entre sistemas, reducen horas operativas y aceleran la respuesta comercial.",
     "resumen": "Las plataformas de agentes autónomos permiten delegar tareas repetitivas (CRM, facturación, atención) a asistentes que actúan 24/7, reduciendo tiempos y costes. Son fáciles de vender a directivos: prometen ahorro de horas, mejora en velocidad de venta y procesos más predecibles sin necesidad de tecnicismos.",
     "imagen_header": "https://res.cloudinary.com/dxukuetdc/image/upload/v1778535327/kjs4kgkubmn1lvgxeebv.jpg",
@@ -146,7 +146,7 @@
     ]
   },
   {
-    "titulo": "Agente RAG Comercial 24/7",
+    "titulo": "Agente RAG Comercial",
     "meta_descripcion": "Agentes autónomos RAG con n8n + Supabase: automatiza ventas y soporte, ahorra tiempo y mejora KPIs en pymes mexicanas.",
     "resumen": "Solución lista para vender a directivos: un agente autónomo RAG orquestado por n8n y respaldado en Supabase que automatiza atención, búsquedas internas y propuestas comerciales, reduciendo tiempos y aumentando conversiones. Se implementa con infra mínima y sin jerga técnica.",
     "imagen_header": "https://res.cloudinary.com/dxukuetdc/image/upload/v1778269894/rlqxrn1dxagx77tpx4bv.jpg",
