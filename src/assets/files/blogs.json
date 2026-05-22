@@ -1,5 +1,66 @@
 [
   {
+    "titulo": "Conserje Comercial Autónomo: Carrito Universal y Compra Autónoma en Marketplaces",
+    "meta_descripcion": "Universal Cart y agentes Gemini (Google I/O 2026) transforman discovery y checkout: cómo medianas empresas pueden automatizar ventas, reducir fricción y mejorar ROI.",
+    "resumen": "Hoy la tendencia más prometedora es el comercio 'agentic' de Google I/O 2026: Universal Cart + Gemini Spark permiten que asistentes AI encuentren productos, comparen precios y completen checkouts. Para directivos, esto ofrece una forma inmediata de aumentar conversión y retención mediante pilotos en catálogo, logística de devoluciones y acuerdos de comisiones.",
+    "imagen_header": "https://res.cloudinary.com/dxukuetdc/image/upload/v1779429718/cnqojy3zdkprkf2lfyta.jpg",
+    "imagen_footer": "https://res.cloudinary.com/dxukuetdc/image/upload/v1779429739/kqa6u1frmz8mmnd4hi8z.jpg",
+    "contenido": [
+      {
+        "tipo": "subtitulo",
+        "texto": "La evolución del comercio digital"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En la era digital, la forma en que compramos está experimentando una transformación sin precedentes. Con la introducción del Carrito Universal por parte de Google, tenemos ante nosotros una herramienta que promete revolucionar la experiencia de compra en línea. Imagina tener un empleado que nunca duerme, siempre disponible para ayudarte a encontrar las mejores ofertas y mantener un seguimiento de los productos que deseas. Este Carrito Universal actúa como un **conserje comercial autónomo**, facilitando el proceso de adquisición de productos a través de múltiples marketplaces."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "¿Qué es el Carrito Universal?"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El Carrito Universal es una innovación diseñada para funcionar como un \"cerebro digital\" que se integra con diferentes comercios y servicios en línea. Esto significa que puedes agregar artículos a tu carrito mientras navegas por la Búsqueda de Google, chateas con la aplicación Gemini, ves videos en YouTube o revisas tu correo en Gmail. Como un asistente personal al que siempre puedes acudir, este carrito inteligente trabaja en segundo plano, buscando promociones y monitoreando la evolución de precios de los productos que te interesan."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "Un sistema que trabaja a tu favor"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Al añadir un producto al Carrito Universal, no solo lo guardas para más tarde. Este sistema comienza a operar como un **conserje comercial autónomo**, buscando automáticamente descuentos, alertándote sobre caídas de precios y notificándote cuando un producto vuelve a estar disponible. A medida que el modelo Gemini detrás del carrito sigue mejorando, tus experiencias de compra se vuelven aún más personalizadas y efectivas. La esencia de esta herramienta es que el proceso de compra se vuelve más fluido: ya no es una serie de pasos que debes seguir, sino una experiencia adaptativa que evoluciona contigo."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "La integración con el Protocolo de Comercio Universal"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A medida que nos adentramos más en el comercio agéntico, el Carrito Universal se apoya en el Protocolo de Comercio Universal (UCP), que ha sido diseñado para facilitar la automatización del proceso de compra. Este protocolo crea un estándar común entre diversas plataformas, lo que permite que los compradores disfruten de una experiencia más integrada y sin fricciones. Con esta infraestructura en marcha, puedes pensar en el Carrito Universal como una conexión directa entre tus necesidades de compra y la vasta oferta disponible en línea, algo así como un **conserje comercial autónomo** que conoce tus gustos y preferencias."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "Compras sin obstáculos"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El Carrito Universal no solo facilita el proceso de compra, sino que también permite realizar pagos de forma más eficiente. Esto representa un gran avance en comparación con los antiguos métodos de compra, donde tenías que completar procesos complicados en cada sitio web. Ahora, podrás disfrutar de un checkout de un solo paso en tiendas compatibles, lo que te permitirá realizar compras en varios minoristas utilizando un solo proceso de pago. Así, la experiencia de compra se asemeja a tener un asistente que gestiona todos los aspectos de tu compra, eliminando los obstáculos que solían interponerse entre tú y tus productos deseados."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "La promesa del futuro del comercio"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Con el Carrito Universal, Google está dando un paso decisivo hacia un futuro donde las compras son rápidas, eficientes y sin complicaciones. Este avance refleja una tendencia hacia un entorno de venta más inteligente y adaptativo, en el que las decisiones de compra se basan en información contextual y en las preferencias del consumidor. Esto significa que cada vez que uses esta herramienta, estarás en la vanguardia de una experiencia de compra revolucionaria que redefine cómo interactuamos con los marketplaces."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En resumen, el Carrito Universal de Google no solo transforma la manera en que compramos en línea, sino que también abre un abanico de posibilidades para los dueños de negocios. A medida que más consumidores adopten esta forma de compra, se espera que la forma en que los comerciantes se conectan con sus clientes y optimizan sus ofertas evolucione dramáticamente."
+      }
+    ]
+  },
+  {
     "titulo": "Carrito Universal: El Conector Omnicanal que Cierra Ventas",
     "meta_descripcion": "Tendencia Google I/O 19‑May‑2026: Universal Cart/UCP. Cómo pymes mexicanas pueden aumentar ventas, reducir ACOS y automatizar post‑venta en 2026.",
     "resumen": "Google presentó el 'Universal Cart' y la expansión del Universal Commerce Protocol en Google I/O (19 de mayo de 2026). Para directivos de pymes medianas en México representa una palanca inmediata para reducir fricción de compra, subir conversión y bajar costos operativos mediante integraciones UCP con marketplaces y automatización de post‑venta.",
