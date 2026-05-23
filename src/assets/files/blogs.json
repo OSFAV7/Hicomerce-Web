@@ -1,5 +1,78 @@
 [
   {
+    "titulo": "Conserje Comercial Autónomo para Marketplaces",
+    "meta_descripcion": "Agentes de IA que automatizan búsquedas y compras en marketplaces para subir AOV, mejorar Buy Box y reducir devoluciones en medianas empresas.",
+    "resumen": "En 48 horas emergió la tendencia de \"agentic commerce\": agentes de IA que buscan, comparan y completan compras en marketplaces. Para directivos de pymes mexicanas ofrece aumento de AOV y tasa Buy Box, reducción de devoluciones y ahorro operativo, con ROI cuantificable en semanas y mensaje comercial sencillo.",
+    "imagen_header": "https://res.cloudinary.com/dxukuetdc/image/upload/v1779516105/hhiw8xq52rkjwctzc1si.jpg",
+    "imagen_footer": "https://res.cloudinary.com/dxukuetdc/image/upload/v1779516124/j4sonyihaegrcmh8r01e.jpg",
+    "contenido": [
+      {
+        "tipo": "subtitulo",
+        "texto": "¿Qué es el commerce agentic?"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El commerce agentic se refiere a la habilidad de los sistemas de inteligencia artificial (IA) de actuar de manera autónoma en el ecommerce. Imagina un empleado que nunca duerme, siempre está atento y capaz de realizar tareas complejas de manera eficiente. Así es como estos sistemas pueden transformar la forma en que compramos y vendemos en línea. Según una investigación reciente, se prevé que el mercado de comercios habilitados para IA alcance los 5.1 mil millones de dólares para 2025, lo que señala su creciente importancia en el sector."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "¿Cómo está cambiando el agentic commerce el ecommerce?"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En la actualidad, empresas como Amazon han comenzado a implementar características que permiten la compra automatizada de productos. Por ejemplo, su función “Buy for me” permite a los usuarios realizar compras con solo unos clics. Esto significa que los consumidores se benefician de una experiencia más fluida y rápida, similar a tener un asistente personal que se encarga de buscar y comprar lo que necesitan sin complicaciones."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "1. Aumento del uso de IA en la toma de decisiones"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A medida que más comercios adoptan el agentic commerce, se están viendo cambios en la manera en que se gestionan y procesan las decisiones de compra. La IA puede analizar datos de ventas y comportamientos del cliente en tiempo real, permitiendo decisiones más rápidas y precisas. Este \"cerebro digital\" es capaz de observar patrones que los humanos podrían pasar por alto, lo que resulta en estratégias de ventas más efectivas."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "2. Automatización de procesos"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La automatización se convierte en el “Empleado que no duerme” en el ecommerce. Desde el manejo de inventarios hasta la atención al cliente, la IA puede hacerse cargo de tareas repetitivas y administrativas. Esto no solo aumenta la eficiencia operativa, sino que también permite a los empleados concentrarse en actividades estratégicas y creativas, mejorando la productividad general del negocio."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Desafíos en el camino hacia la adopción"
+      },
+      {
+        "tipo": "apartado",
+        "texto": "1. Riesgos de seguridad"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Con la implementación de tecnologías autónomas, también surgen nuevos riesgos. El comercio agentic puede hacer que los sistemas sean vulnerables a fraudes o suplantaciones de identidad. Al dar poder de compra a un “agente” digital, es crucial establecer controles sólidos, como permisos de menor privilegio y auditorías para mantener la integridad de las transacciones. Esto implica un enfoque proactivo en la ciberseguridad."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "2. Precisión de la información"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Un aspecto fundamental es la calidad de la información que estos agentes utilizan para operar. Si los datos de productos son imprecisos, esto puede llevar a la insatisfacción del cliente y a un aumento en las tasas de devolución. Así como la memoria infinita de un agente puede almacenar datos, también debe asegurar que estos sean correctos y actualizados, minimizando la posibilidad de errores que podrían afectar la experiencia del consumidor."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Preparándote para el futuro del commerce agentic"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Para que tu negocio esté listo para capitalizar en el commerce agentic, es esencial tener un plan bien estructurado. Se recomienda adoptar un enfoque gradual, comenzando con la construcción de una base sólida en infraestructura digital. Esto se puede realizar mediante la implementación de un sistema que funcione en “modo asistente” antes de permitir una plena autonomía. La clave es demostrar el retorno de inversión (ROI) sin comprometer el control sobre las operaciones comerciales."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En conclusión, el commerce agentic representa una oportunidad significativa para los comerciantes que buscan mantenerse competitivos en el cambiante panorama del ecommerce. A medida que se continúan desarrollando estos sistemas, aquellos que estén preparados para adoptarlo estarán en una posición ventajosa para aprovechar la inteligencia artificial y optimizar sus operaciones comerciales."
+      }
+    ]
+  },
+  {
     "titulo": "Conserje Comercial Autónomo: Carrito Universal y Compra Autónoma en Marketplaces",
     "meta_descripcion": "Universal Cart y agentes Gemini (Google I/O 2026) transforman discovery y checkout: cómo medianas empresas pueden automatizar ventas, reducir fricción y mejorar ROI.",
     "resumen": "Hoy la tendencia más prometedora es el comercio 'agentic' de Google I/O 2026: Universal Cart + Gemini Spark permiten que asistentes AI encuentren productos, comparen precios y completen checkouts. Para directivos, esto ofrece una forma inmediata de aumentar conversión y retención mediante pilotos en catálogo, logística de devoluciones y acuerdos de comisiones.",
