@@ -1,5 +1,70 @@
 [
   {
+    "titulo": "El Custodio de Confianza para Comercio Agéntico",
+    "meta_descripcion": "Prepara tu e‑commerce en México para ventas por agentes IA: reducir chargebacks, asegurar catálogo y aumentar conversiones.",
+    "resumen": "Tendencia: el 28 de mayo de 2026 Ballerine lanzó Agenticom.org, marcando un impulso a la 'agentic commerce' (IA que busca, compara y compra). Para directivos, esto significa preparar inventario, reglas de devolución y pagos para reducir chargebacks, mantener visibilidad en marketplaces y capturar ventas nuevas; se recomienda un piloto de 60 días con foco en catálogo y gobernanza para ver ROI en 3–6 meses.",
+    "imagen_header": "https://res.cloudinary.com/dxukuetdc/image/upload/v1780034527/u1cx107kulhyj9i1rcc4.jpg",
+    "imagen_footer": "https://res.cloudinary.com/dxukuetdc/image/upload/v1780034548/z2qxzstegrwfipecrus3.jpg",
+    "contenido": [
+      {
+        "tipo": "subtitulo",
+        "texto": "Redefiniendo el Comercio en Línea"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En la era digital, el comercio agéntico ha emergido como una revolución en la forma en que los consumidores interactúan con las marcas. Imagina un \"empleado que no duerme\": un agente de inteligencia artificial que actúa como intermediario entre el consumidor y las empresas, optimizando la experiencia de compra sin intervención humana. Este nuevo modelo exige un enfoque audaz por parte de las empresas que buscan adaptarse y prosperar en un entorno donde los agentes toman decisiones de compra."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Conflictos y Desafíos en la Confianza"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Recientes investigaciones han revelado un desequilibrio estructural en el mercado del comercio agéntico. Este \"mismatch\" o desajuste ha creado un caldo de cultivo para el riesgo. A medida que los agentes comienzan a participar de manera más directa en las transacciones, las empresas deben considerar no solo la presentación del producto, sino también su propio nivel de preparación. La falta de visibilidad, especialmente en el punto de compra, se convierte en una vulnerabilidad significativa que puede comprometer la confianza de los consumidores."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Noam Izhaki, cofundador y CEO de Ballerine, destaca que la confianza es un pilar crucial en este nuevo ecosistema. \"El comercio agéntico no escalará solo con la inteligencia del comprador\", afirma. Los comerciantes deben estar listos para afrontar desafíos que involucran la gestión de riesgos operativos y el cumplimiento normativo."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "La Plataforma Agenticom.org: Un Faro de Esperanza"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En respuesta a estos desafíos, Ballerine ha lanzado Agenticom.org, un recurso abierto diseñado para ayudar a las empresas a navegar en el mundo del comercio agéntico. Este sitio proporciona investigación original, análisis de mercado y una serie de mapas del ecosistema que destacan las tecnologías y empresas clave que están dando forma a este nuevo mundo."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "1. La Mapa de Confianza del Comercio Agéntico"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Agenticom.org incluye un \"Agentic Commerce Stack\", un mapa que rastrea las empresas, protocolos y plataformas que configuran la infraestructura del comercio agéntico. Desde proveedores de confianza en el lado del comprador hasta herramientas de preparación del vendedor, este recurso es esencial para cualquier empresa que quiera comprender cómo encajar en este nuevo paradigma."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "2. Preparación para el Futuro"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La transformación hacia el comercio agéntico implica prepararse para una realidad donde agentes de IA llevan las riendas del proceso de compra. Las empresas que deseen no solo sobrevivir, sino prosperar, deben adoptar un enfoque proactivo. Esto incluye desarrollar flujos de trabajo que puedan gestionar pagos iniciados por agentes, y ofrecer datos estructurados que satisfagan las expectativas de estos nuevos compradores."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A medida que el comercio agéntico continúa evolucionando, la pregunta no es si participar, sino cómo hacerlo de manera efectiva y confiable. La preparación y la adaptación serán cruciales para estar en la vanguardia de esta transformación."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Conclusión"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El comercio agéntico representa no solo un cambio en la manera en que se realizan las compras, sino también un ajustado equilibrio de confianza entre consumidores y empresas. Adicionalmente, las plataformas como Agenticom.org son esenciales en este camino, actuando como un \"custodio de confianza\" que ayuda a visibilizar los puntos críticos donde puede existir riesgo. aquellas empresas que se adapten a esta nueva realidad no solo sobrevivirán, sino que también marcarán el futuro del comercio en línea."
+      }
+    ]
+  },
+  {
     "titulo": "Concierge Autónomo de Conversión para Marketplaces",
     "meta_descripcion": "Agentic commerce: IA que coordina compras y checkout universal para subir conversiones, reducir ACOS y optimizar inventario. (28 mayo 2026)",
     "resumen": "Hoy, 28 mayo 2026, la tendencia más vendible para directivos es el 'agentic commerce': IA que guía compras y completa pagos mediante checkout universal, integrada con gestión predictiva de inventario. Beneficios claros: mayor conversión, menor ACOS y reducción de costos logísticos; propuesta: piloto en marketplace con reglas de control y medición en 60–90 días.",
