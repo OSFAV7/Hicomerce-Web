@@ -1,5 +1,74 @@
 [
   {
+    "titulo": "Carrito Inteligente: Rellenado Predictivo y Upsell Contextual",
+    "meta_descripcion": "Asistente 'Go' y agentes de compra que llenan carritos: reduce abandono, sube ticket medio y optimiza reabastecimiento en pymes.",
+    "resumen": "El 9 de junio de 2026 Gopuff y xAI lanzaron 'Go', un asistente que arma carritos predictivos y sugiere upsells contextuales. Para directivos de medianas empresas en México es una palanca vendible para bajar abandono de carrito, aumentar ticket medio y mejorar rotación de inventario con pilotos de bajo coste (Fuente: Gopuff/xAI, 9 jun 2026).",
+    "imagen_header": "https://res.cloudinary.com/dxukuetdc/image/upload/v1781071313/vcf1pivfby5vs8rvyqrc.jpg",
+    "imagen_footer": "https://res.cloudinary.com/dxukuetdc/image/upload/v1781071334/amzxm4pesducsyarwzko.jpg",
+    "contenido": [
+      {
+        "tipo": "subtitulo",
+        "texto": "Introducción al Carrito Abandonado"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En el mundo del comercio electrónico, el carrito abandonado representa uno de los mayores retos para las tiendas. Imagina que tu tienda online es un supermercado donde los compradores entran, recogen productos, pero al final no los compran. Este fenómeno, que afecta a alrededor del 70% de los compradores en línea, significa que hay una gran cantidad de ingresos que se pierden día tras día. Con la introducción de tecnologías como el carrito inteligente, los negocios pueden transformar esta situación en una oportunidad."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "¿Qué es un Carrito Inteligente?"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Un carrito inteligente es como un \"empleado que no duerme\" dentro de tu tienda virtual. Esta herramienta combina tecnología avanzada con la experiencia del cliente, ofreciendo un rellenado predictivo y opciones de upsell contextual. Lo que hace realmente fascinante a esta tecnología es su capacidad para aprender de las preferencias del cliente y optimizar su experiencia de compra. Por ejemplo, si un usuario frecuentemente compra snacks durante ciertas horas, el carrito puede sugerir esos productos automáticamente cuando se acerque a esas horas."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "Rellenado Predictivo: Un Asistente Personal"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El rellenado predictivo en un carrito inteligente actúa como un \"cerebro digital\". Recopila datos sobre el comportamiento del consumidor y utiliza esta información para anticipar qué productos podrían interesar. Cada vez que un cliente inicia sesión, el carrito sugiere artículos basados en compras anteriores y tendencias de compra en tiempo real. Esto no solo acelera el proceso de compra, sino que también reduce la fricción que a menudo lleva al abandono del carrito."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "Upsell Contextual: El Arte de Vender Más"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La estrategia de upsell contextual es como tener un vendedor experimentado en tu tienda. Imagina que un cliente agrega un smartphone a su carrito; el carrito inteligente podría sugerir accesorios relacionados, como fundas o auriculares. Esta táctica se basa en el principio de que las recomendaciones personalizadas hacen más probable que los clientes compren productos adicionales. Al implementar esta estrategia, las tiendas pueden aumentar significativamente su tasa de conversión y, en consecuencia, su facturación."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Estrategias para Recuperar Carritos Abandonados"
+      },
+      {
+        "tipo": "apartado",
+        "texto": "Remarketing en Google Ads"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El remarketing es una de las herramientas más efectivas para recordar a los clientes que su carrito está esperando por ellos. Utilizando Google Ads, se pueden crear anuncios específicos para personas que han abandonado su carrito. Al mostrar estos anuncios en la Red de Display o en YouTube, puedes traer de vuelta a esos compradores a través de recordatorios visuales atractivos. Es como si tu tienda dijera: \"¡Hey, no olvides esos artículos que dejaste atrás!\"."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "Timing y Frecuencia"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La sincronización es clave en el remarketing. Los expertos sugieren que las primeras 24 a 72 horas después del abandono del carrito son cruciales. Durante este tiempo, la intención de compra es alta. Sin embargo, es esencial controlar la frecuencia de los anuncios. Mostrar el mismo mensaje repetidamente puede resultar molesto y generar una reacción negativa. Una recomendación sería limitar las impresiones a entre 3 y 5 por usuario al día."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Acciones Inmediatas para Implementar"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Si estás buscando formas de mejorar la recuperación de carritos abandonados, hay tres pasos que podrías implementar de inmediato. Primero, configurar una secuencia de tres correos electrónicos de recuperación a través de plataformas como Klaviyo. Segundo, activar Shop Pay en tu proceso de pago para facilitar la compra. Tercero, mostrar los costos de envío en la página de producto para que los clientes tengan toda la información necesaria. Estas medidas simples pueden traducirse en una recuperación del 5% al 15% de los carritos abandonados, lo que se traduce en un ingreso significativo para tu negocio."
+      }
+    ]
+  },
+  {
     "titulo": "El Orquestador de Buy Box: runtimes de agentes gratis para marketplaces",
     "meta_descripcion": "Runtimes de agentes gratis permiten automatizar listings, prever inventario y mejorar Buy Box; ahorro y mayor conversión para pymes en México.",
     "resumen": "Tendencia del 09 junio 2026: la oferta de runtimes de agentes gratuitos por grandes proveedores facilita desplegar automatizaciones que conectan catálogos, precios, inventario y atención en marketplaces. Para directivos de pymes mexicanas esto se traduce en menor costo operativo, mayor visibilidad en Mercado Libre/Amazon/TikTok Shop y control de devoluciones con impacto rápido en ventas y margen.",
