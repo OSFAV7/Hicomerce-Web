@@ -1,5 +1,74 @@
 [
   {
+    "titulo": "Embajadores de Compra: Pagos Programables para Marketplaces",
+    "meta_descripcion": "Agentic commerce y pagos programables que permiten a pymes mexicanas vender más en marketplaces y reducir costos operativos y devoluciones.",
+    "resumen": "Basado en anuncios del 10 al 12 de junio de 2026, la tendencia más prometedora es la 'agentic commerce': IA autorizada que puede comprar y pagar automáticamente con reglas y controles. Para directivos de pymes mexicanas esto significa más conversión en marketplaces, menos fricción en devoluciones y reducción de costos operativos mediante pagos programables y guardrails.",
+    "imagen_header": "https://res.cloudinary.com/dxukuetdc/image/upload/v1781244123/mlj5iypcnq2fqmhz6ukj.jpg",
+    "imagen_footer": "https://res.cloudinary.com/dxukuetdc/image/upload/v1781244147/zxjv6ty2oy6uzxpiwohk.jpg",
+    "contenido": [
+      {
+        "tipo": "subtitulo",
+        "texto": "Introducción al Comercio Agentivo"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En el cambiante panorama del comercio digital, el surgimiento del **comercio agentivo** está transformando la manera en que los consumidores realizan sus compras. Imagina un **empleado que no duerme**, capaz de buscar, comparar y comprar productos en tu nombre. Este tipo de tecnología no solo promete simplificar las transacciones, sino también hacerlas más seguras y eficientes. Según Pablo Fourez, Chief Digital Officer de Mastercard, la llegada de los agentes de inteligencia artificial (IA) a los pagos digitales marcará una revolución similar a la que hemos visto en otras industrias."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "¿Qué es el comercio agentivo?"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El **comercio agentivo** consiste en utilizar **agentes de IA** que actúan como compradores autónomos en línea. Estos agentes son capaces de explorar catálogos de productos, analizar precios y condiciones, y realizar compras sin intervención humana. En esencia, estos \"cerebros digitales\" transforman la experiencia de compra en un proceso más fluido y personalizado. Un ejemplo de esto ya se está viendo con la función \"Buy for me\" de Amazon, donde los usuarios pueden confiar en un agente para gestionar sus compras automáticamente."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "1. La llegada de Agent Pay a América Latina"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Para llevar el comercio agentivo a un nuevo nivel, Mastercard ha anunciado el lanzamiento de **Agent Pay** en América Latina a partir de febrero de 2026. Esta solución permitirá a los agentes de IA realizar transacciones utilizando tokens, facilitando así el proceso de compra y añadiendo una capa adicional de seguridad. Compañías como Davivienda, junto con otras grandes plataformas de pagos, se están preparando para incorporar esta tecnología en sus operaciones, buscando así aprovechar al máximo el potencial que ofrece el comercio impulsado por IA."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Laura Gómez Gutiérrez, de Davivienda, explica que este nuevo método fortalecerá el ecosistema de pagos, proporcionando a las empresas y consumidores la confianza necesaria para adoptar esta innovadora metodología de comercio. Con más del 50% de los comercios invirtiendo ya en este tipo de tecnología, la transición hacia el comercio agentivo es inminente, obligando a los minoristas a prepararse para esta nueva realidad."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "2. La influencia de Google en el comercio agentivo"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Google ha tomado un papel protagónico en la transformación del eCommerce a través del **Agentic Commerce**, presentando iniciativas que buscan estandarizar el proceso de compra mediada por IA. La creación del **Universal Commerce Protocol (UCP)** es un paso significativo hacia la integración de estos agentes en el entorno digital, permitiendo que tanto consumidores como comerciantes se beneficien de una experiencia de compra más fluida y menos fragmentada."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Este protocolo busca que los agentes de IA y los sistemas de los minoristas \"hablen el mismo idioma\" durante todo el proceso de compra, eliminando la necesidad de integraciones complicadas. Así, proyectos como el UCP no solo mejoran la interacción entre tecnología y usuario, sino que también contribuyen a la construcción de un ecosistema escalable donde la inteligencia artificial puede operar sin fricciones."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "3. Retos en la implementación del comercio agentivo"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A pesar de las oportunidades que ofrece el comercio agentivo, hay desafíos que enfrentar. Uno de los principales es entender que **Agent Pay** representa una infraestructura más que un agente independiente. Los comercios deben reconfigurar su operativa para acomodar esta tecnología, lo que incluye actualizar sus sistemas de pagos y garantizar que están protegidos frente a posibles fraudes. Con el crecimiento constante en el uso de agentes IA, la prevención del fraude se vuelve esencial para proteger tanto a consumidores como a comerciantes."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Según un estudio reciente, más del 40% de los minoristas están considerando cambiar de proveedor de servicios de pago si su proveedor actual no apoya las tecnologías emergentes. Esto subraya la urgencia de estar al día con los estándares industriales y la necesidad de colaboraciones estratégicas que faciliten esta transición hacia un nuevo paradigma en el comercio digital."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Conclusión"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La evolución hacia el comercio agentivo representa no solo una revolución en la forma en que realizamos nuestras compras, sino también un cambio en la estructura misma del eCommerce. Prepararse para esta nueva etapa implica adoptar tecnologías emergentes, establecer protocolos de seguridad robustos y re-configurar el proceso de compra tradicional. En este contexto, los agentes de IA no son solo una herramienta: son los nuevos protagonistas del comercio digital."
+      }
+    ]
+  },
+  {
     "titulo": "Orquestador de Conversión en Marketplaces",
     "meta_descripcion": "Plataformas agentic (AXP) que automatizan fichas, personalizan experiencia y mejoran Buy Box para ROI rápido en medianas empresas.",
     "resumen": "Tendencia: plataformas 'agentic' (p. ej. Contentstack AXP, 9 Jun 2026) que despliegan agentes autónomos para contenido, precios y personalización en marketplaces. Para un directivo, significa aumento de conversión y ahorro operativo con implementaciones medibles en semanas.",
