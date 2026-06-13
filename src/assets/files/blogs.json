@@ -1,5 +1,66 @@
 [
   {
+    "titulo": "La Pasarela Transaccional para Comercio Autónomo en Marketplaces",
+    "meta_descripcion": "Habilita transacciones automatizadas por IA en marketplaces: más ventas, menor ACOS/CAC y operaciones más eficientes para pymes y retailers.",
+    "resumen": "Tendencia: 'comercio autónomo' — infraestructura y pagos que permiten a IA comprar y vender directamente en marketplaces. Para un directivo en México, esto se traduce en mayor conversión y ahorro operativo: automatiza precios, listados y campañas, reduciendo ACOS y la carga del equipo técnico sin necesidad de proyectos largos.",
+    "imagen_header": "https://res.cloudinary.com/dxukuetdc/image/upload/v1781330500/rmpc477kjaofhlj4v0aq.jpg",
+    "imagen_footer": "https://res.cloudinary.com/dxukuetdc/image/upload/v1781330522/m68dlah9ue7l7btql589.jpg",
+    "contenido": [
+      {
+        "tipo": "subtitulo",
+        "texto": "La importancia de una pasarela transaccional efectiva"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En el panorama actual del comercio, el crecimiento de los marketplaces presenta oportunidades significativas para los negocios en México. Sin embargo, con esta expansión vienen desafíos que pueden poner en riesgo la estabilidad financiera de las empresas. Contar con tecnología que actúe como un “cerebro digital” para monitorear transacciones, validar pagos y detectar anomalías es esencial. Esta infraestructura financiera moderna no solo ayuda a automatizar procesos, sino que también mejora la seguridad operativa, permitiendo que los negocios naveguen entre múltiples plataformas con confianza."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Cómo Base fortalece la operación financiera de negocios en marketplaces"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A medida que las empresas amplían su alcance a través de varios marketplaces, la complejidad de la gestión financiera aumenta. La tecnología que ofrece Base se presenta como un “empleado que no duerme”, capaz de gestionar pagos digitales de manera segura mientras proporciona visibilidad completa sobre las transacciones. Esto es crucial para proteger el flujo de dinero y garantizar un crecimiento sostenible en el competitivo entorno digital mexicano."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Vender en marketplaces como Claro Shop permite a los negocios en México no solo crecer más rápido, sino también llegar a nuevos clientes. Sin embargo, este crecimiento no está exento de desafíos. Un control financiero efectivo y la protección contra fraudes son esenciales para mantener la estabilidad operativa. Base facilita a las empresas una infraestructura adecuada para reducir riesgos y mantener un flujo de dinero estable al operar en diferentes plataformas con ciclos de liquidación diversos."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "La relevancia de la seguridad en transacciones digitales"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La seguridad es el corazón de cualquier infraestructura financiera. Con el incremento de transacciones en línea, la necesidad de proteger contra fraudes y mitigar riesgos operativos se vuelve inevitable. Según estadísticas recientes, un significativo porcentaje de las ventas en línea en México se relacionan con devoluciones y reembolsos debido a actividades fraudulentas. De ahí surge la importancia de contar con una pasarela transaccional que vigile las operaciones cada segundo del día."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La implementación de tecnología avanzada por parte de Base proporciona a los negocios la capacidad de monitorear ingresos, garantizar la seguridad de las transacciones y ofrecer un control total sobre el flujo de dinero. Esto se traduce en una operación más eficiente y en la confianza necesaria para seguir creciendo en un mercado que evoluciona constantemente."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "La sinergia entre inteligencia artificial y ecommerce"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A medida que emergen nuevas tecnologías, como los pagos impulsados por agentes de inteligencia artificial, se redefine la forma en que compramos. Este “comercio agentic” no solo facilita la comparación de precios y la recomendación de productos, sino que también plantea nuevos desafíos en términos de seguridad. La posibilidad de que un agente comprometido ejecute fraudes a gran escala pone de relieve la necesidad de controles robustos y eficientes."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Adaptarse a este nuevo entorno es fundamental. La integración de herramientas que permiten a las empresas gestionar transacciones a través de IA puede ser el “cerebro digital” que necesitan las empresas para competir. La capacidad de esta tecnología para interpretar instrucciones y ejecutar transacciones sin intervención humana puede cambiar las reglas del juego, pero siempre debe estar respaldada por una supervisión adecuada para evitar caídas en la seguridad."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Conclusión parcial"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En el competitivo mundo de los marketplaces en México, contar con una pasarela transaccional eficiente es más que un lujo, es una necesidad. Las empresas no solo deben centrarse en aumentar sus ventas, sino en hacerlo de una manera segura y sostenible. La implementación de tecnologías como la infraestructura financiera proporcionada por Base no solo ofrece a las empresas las herramientas necesarias para crecer y gestionar sus operaciones de manera efectiva, sino que también les brinda la confianza para enfrentar los desafíos que vienen con la digitalización."
+      }
+    ]
+  },
+  {
     "titulo": "Embajadores de Compra: Pagos Programables para Marketplaces",
     "meta_descripcion": "Agentic commerce y pagos programables que permiten a pymes mexicanas vender más en marketplaces y reducir costos operativos y devoluciones.",
     "resumen": "Basado en anuncios del 10 al 12 de junio de 2026, la tendencia más prometedora es la 'agentic commerce': IA autorizada que puede comprar y pagar automáticamente con reglas y controles. Para directivos de pymes mexicanas esto significa más conversión en marketplaces, menos fricción en devoluciones y reducción de costos operativos mediante pagos programables y guardrails.",
