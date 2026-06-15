@@ -1,5 +1,78 @@
 [
   {
+    "titulo": "El Seguro de Continuidad de IA para Marketplaces",
+    "meta_descripcion": "Orden del 13‑14 Jun 2026 obliga a diversificar IA: continuidad operativa, mitigación de riesgo y protección de ventas en marketplaces.",
+    "resumen": "La orden del 13‑14 de junio de 2026 que obligó a Anthropic a deshabilitar modelos frontier crea un riesgo inmediato para automatizaciones de marketplaces. Proponer una estrategia comercial de diversificación de modelos (fallback on‑prem o regional, contratos SLA, flujos de respaldo) asegura continuidad, evita pérdida de Buy Box y protege ingresos y reputación con un enfoque comprensible para directivos.",
+    "imagen_header": "https://res.cloudinary.com/dxukuetdc/image/upload/v1781503331/cp1liksnu4tkgrbkmuwu.jpg",
+    "imagen_footer": "https://res.cloudinary.com/dxukuetdc/image/upload/v1781503353/z8hdskzmg43eqikdmqep.jpg",
+    "contenido": [
+      {
+        "tipo": "subtitulo",
+        "texto": "Introducción a un nuevo enfoque"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En un mundo donde la inteligencia artificial (IA) se está posicionando como el pilar fundamental de muchas industrias, la reciente decisión del gobierno estadounidense de bloquear los modelos más avanzados de IA de la empresa Anthropic trae a la luz la necesidad de contar con un \"Seguro de Continuidad de IA\" para marketplaces. Este concepto no sólo busca proteger a las empresas de decisiones gubernamentales imprevisibles, sino también asegurar que las operaciones sigan fluyendo sin interrupciones."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "El impacto de la decisión gubernamental"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La medida del gobierno de EE. UU. de restringir el acceso a herramientas avanzadas de IA como Fable 5 y Mythos 5, que en palabras de Anthropic son desarrollos seguros y útiles, resalta que la regulación puede afectar directamente la forma en que las empresas operan. Esta acción repentina dejó a muchos usuarios sin su \"empleado digital\" que jamás duerme, cortando de un hachazo la posibilidad de acceso a una tecnología que ya había sido adoptada por millones."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ante esta incertidumbre, surge la necesidad de un \"Seguro de Continuidad de IA\". Este principio actúa como un plan de respaldo que permite a los marketplaces mantener su flujo de trabajo, minimizando la interrupción causada por decisiones externas. En lugar de depender de modelos que pueden caer bajo restricciones de exportación de un día para otro, las empresas pueden voltear su mirada hacia alternativas locales o sistemas de IA adaptados a sus necesidades específicas."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "La necesidad de diversificación en la IA"
+      },
+      {
+        "tipo": "apartado",
+        "texto": "1. Alternativas locales"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La decisión de restringir modelos de IA puede servir como un llamado a la acción para que las empresas consideren crear o adoptar soluciones de IA desarrolladas localmente. Así como un generador de energía de respaldo es crucial para una casa durante un apagón, contar con un sistema de IA que no esté sujeto a las mismas regulaciones puede ser vital para la continuidad operativa. Esto no solo garantiza la estabilidad en las operaciones, sino que también promueve un ecosistema tecnológico local más fuerte y resiliente."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "2. Modelos abiertos como salvaguarda"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Además de las alternativas locales, la adopción de modelos de IA de código abierto puede ofrecer una solución valiosa. Estos modelos pueden actuar como una \"batería de respaldo\" que permite a las empresas innovar y operar sin la presión de futuras limitaciones. Con un modelo abierto, las organizaciones tienen la posibilidad de personalizar su IA, ajustando su \"cerebro digital\" para que se adapte a sus necesidades, libre de la influencia de regulaciones externas."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Consideraciones para un Seguro de Continuidad de IA"
+      },
+      {
+        "tipo": "apartado",
+        "texto": "1. Evaluación de riesgos"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La implementación de un Seguro de Continuidad de IA requiere que las empresas realicen una evaluación exhaustiva de los riesgos. Esto incluye comprender no sólo las tecnologías que utilizan, sino también el entorno regulatorio en el que operan. ¿Qué medidas están tomando otros competidores para mitigar sus riesgos? ¿Qué sucede si un nuevo modelo de IA es prohibido de un día para otro? Al tener respuestas a estas preguntas, los marketplaces pueden diseñar un plan más sólido que respalde su continuidad."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "2. Capacitación y actualización constante"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La tecnología avanza a pasos agigantados. Así como un buen empleado se mantiene al día con las últimas tendencias y desarrollos, los marketplaces deben asegurarse de que su personal esté capacitado en el uso y la implementación de nuevas tecnologías de IA. Esto incluye no solo las herramientas actuales, sino también estar alertas a nuevas alternativas que surjan en el futuro. Esta capacitación continua se convertirá en un activo valioso que permitirá a las empresas adaptarse rápidamente a los cambios en el entorno."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La reciente decisión sobre los modelos de IA de Anthropic no solo destaca el impacto a corto plazo en el acceso a tecnología avanzada, sino que también establece un nuevo paradigma en la forma en que las empresas deben considerar el uso de inteligencia artificial. Por tanto, establecer un Seguro de Continuidad de IA en marketplaces no es solo una opción, sino una necesidad en este entorno tecnológico en constante evolución."
+      }
+    ]
+  },
+  {
     "titulo": "La Caja de Visibilidad: Optimizador AI para Fichas 'Agent‑Ready' en Marketplaces",
     "meta_descripcion": "Tendencia 14‑jun‑2026: optimización AI de product feeds 'agent‑ready' para ganar visibilidad, reducir ACOS y ahorrar horas operativas.",
     "resumen": "Hoy, 14 de junio de 2026, la tendencia más vendible es la optimización AI de fichas y product feeds para que sean 'agent‑ready' en marketplaces y plataformas de comercio asistido por IA. Ofrece incremento de visibilidad y conversiones, reducción de ACOS y menor carga operativa —beneficios fáciles de explicar a directivos y con casos de uso y ROI medible en 2026.",
