@@ -1,5 +1,74 @@
 [
   {
+    "titulo": "Embajadores de Compra: IA que Captura la Buy Box y Acelera Ventas",
+    "meta_descripcion": "Agentic commerce: IA que compra por clientes para medianas empresas; gana la Buy Box, sube conversión y reduce costos operativos en 2026.",
+    "resumen": "La tendencia más prometedora al 16 de junio de 2026 es la 'agentic commerce' —IA que actúa como comprador— aplicada a marketplaces. Para directivos, significa ganar visibilidad (Buy Box), aumentar la conversión y reducir costos de inventario/devoluciones mediante pilotos rápidos con ROI claro.",
+    "imagen_header": "https://res.cloudinary.com/dxukuetdc/image/upload/v1781589701/fwnotzddml7r2yvfb5lt.jpg",
+    "imagen_footer": "https://res.cloudinary.com/dxukuetdc/image/upload/v1781589723/gzhu00lelq3hxwe8s7g3.jpg",
+    "contenido": [
+      {
+        "tipo": "subtitulo",
+        "texto": "La IA como guía en el viaje del cliente"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En el mundo del comercio electrónico, la experiencia del cliente es vital. La inteligencia artificial (IA) se ha convertido en el cerebro digital que guía a los consumidores en cada etapa de su viaje. Desde el descubrimiento inicial de un producto hasta la fidelización postventa, la IA actúa como un empleado que no duerme, siempre disponible para atender las necesidades del cliente. En 2026, se espera que esta tecnología evolucione aún más, impulsando a las empresas a adoptar soluciones que no solo faciliten la compra, sino que también optimicen todo el proceso de venta."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "1. Las múltiples funciones de la IA en el eCommerce"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La IA es capaz de realizar diversas funciones que mejoran la experiencia de compra. Durante la fase de descubrimiento, los recomendadores analizan el comportamiento de los usuarios, sugiriendo productos que probablemente les interesen. Es como un asistente personal que ofrece opciones relevantes y personalizadas. En esta etapa, herramientas como \"Seguir explorando\" y \"Inspirado en lo que viste\" pueden llevar a los usuarios a productos que de otro modo podrían pasar desapercibidos."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "2. Optimización de la conversión a través de la IA"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En la fase de consideración, los asistentes virtuales no solo responden preguntas, sino que también resuelven dudas, brindando información crucial cuando el cliente está a punto de tomar una decisión de compra. Además, la IA permite implementar estrategias de pricing dinámico y ofertas personalizadas, adaptándose continuamente a las condiciones del mercado y las preferencias de los usuarios."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Este enfoque no se detiene en la conversión. Las funciones de postventa, como los mensajes proactivos y las estrategias de fidelización, utilizan datos de comportamiento y segmentación para mantener el interés del cliente. Programas de fidelización basados en el valor del cliente (RFM) identifican a aquellos que han realizado múltiples compras, permitiendo a las empresas ofrecerles ventajas exclusivas y aumentando así el valor de vida del cliente (LTV)."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Beneficios y KPIs que marcan la diferencia"
+      },
+      {
+        "tipo": "apartado",
+        "texto": "1. Resultados tangibles de la IA en el eCommerce"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La implementación de la IA no es un mero capricho; debe medirse para garantizar su efectividad. Indicadores como tasa de conversión, valor promedio del pedido (AOV) y tasa de recompra son esenciales para evaluar el impacto de estas herramientas. Por ejemplo, el uso de recomendadores puede contribuir a un incremento significativo en las ventas; aplicaciones como \"Complementa con...\" y \"Comparables\" son claves para estrategias de cross-sell y upsell."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "2. La importancia de los datos"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Un factor decisivo en el éxito de la IA en el eCommerce es la calidad de los datos. La higiene de datos se traduce en atributos estandarizados que permiten a la IA operar de manera eficiente. Implementar estrategias que agrupan a los clientes según su comportamiento, como “Frecuentes-Alto valor” y “Nuevos-Bajo valor”, optimiza la forma en que se presentan las novedades y los bundles de productos, generando una experiencia de compra más fluida y satisfactoria."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En un entorno donde WhatsApp se ha establecido como un canal primordial, la integración de la IA en este espacio puede facilitar la comunicación entre empresas y clientes, mejorando el proceso de adquisición y conversión. Al ofrecer asistencia a través de la plataforma preferida por el consumidor, las empresas pueden reducir las tasas de abandono del carrito y aumentar el porcentaje de clics (CTR)."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Conclusión anticipada"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En el horizonte de 2026, es evidente que las empresas que integren la IA en sus estrategias de eCommerce no solo optimizarán su proceso de ventas, sino que también brindarán una experiencia de cliente incomparable. A medida que el comercio digital evoluciona, abrazar estas soluciones tecnológicas se volverá imperativo para aquellos que buscan destacarse en un mercado competitivo y en constante cambio."
+      }
+    ]
+  },
+  {
     "titulo": "El Seguro de Continuidad de IA para Marketplaces",
     "meta_descripcion": "Orden del 13‑14 Jun 2026 obliga a diversificar IA: continuidad operativa, mitigación de riesgo y protección de ventas en marketplaces.",
     "resumen": "La orden del 13‑14 de junio de 2026 que obligó a Anthropic a deshabilitar modelos frontier crea un riesgo inmediato para automatizaciones de marketplaces. Proponer una estrategia comercial de diversificación de modelos (fallback on‑prem o regional, contratos SLA, flujos de respaldo) asegura continuidad, evita pérdida de Buy Box y protege ingresos y reputación con un enfoque comprensible para directivos.",
