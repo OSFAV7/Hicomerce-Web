@@ -1,5 +1,74 @@
 [
   {
+    "titulo": "El Concierge de Conversión: Asistente de Compra IA para E‑commerce",
+    "meta_descripcion": "Asistente de compra IA (THG Ingenuity) que promete multiplicar conversiones; guía práctica para directivos y ROI en pymes mexicanas.",
+    "resumen": "Tendencia detectada: lanzamiento del AI Shopping Assistant de THG Ingenuity (17 junio 2026), que en su anuncio reporta hasta 8x más conversiones para e‑commerce. citeturn0search2 Para medianas empresas mexicanas significa una vía rápida para aumentar ventas y mejorar tasa de conversión mediante personalización conversacional y checkout asistido; respaldado por el aumento del tráfico AI a minoristas (+393% Q1 2026). citeturn0search5",
+    "imagen_header": "https://res.cloudinary.com/dxukuetdc/image/upload/v1781762496/md6tapm92po8ouylqbie.jpg",
+    "imagen_footer": "https://res.cloudinary.com/dxukuetdc/image/upload/v1781762519/o6euc1mylxtxj2cmwrpw.jpg",
+    "contenido": [
+      {
+        "tipo": "subtitulo",
+        "texto": "La Revolución del E-commerce"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En el dinámico mundo del e-commerce, la capacidad de adaptarse y ofrecer una experiencia personalizada es crucial. Con la reciente introducción del asistente de compra de inteligencia artificial (IA) por THG Ingenuity, en colaboración con Google Cloud, estamos presenciando un cambio radical en la forma en que los consumidores interactúan con las marcas. Este \"concierge de conversión\" actúa como un empleado que no duerme, siempre disponible para guiar a los clientes en su viaje de compra."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Este asistente de compra utiliza la plataforma Gemini Enterprise Agent de Google Cloud, una especie de \"cerebro digital\" que entiende las necesidades individuales de cada consumidor. Al ofrecer atención al cliente personalizada y en tiempo real, este asistente no solo mejora la experiencia del usuario, sino que también aumenta significativamente las tasas de conversión de las marcas. En el caso de Myprotein, por ejemplo, se han registrado un aumento del 5.5x en las conversiones de compradores por primera vez y un incremento del 22% en el tamaño promedio del carrito."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "¿Cómo Funciona el Asistente de Compra de IA?"
+      },
+      {
+        "tipo": "apartado",
+        "texto": "1. Personalización en Tiempo Real"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La clave del éxito del asistente de compra de IA radica en su capacidad para ofrecer una experiencia altamente personalizada. Este \"concierge digital\" no solo conoce el catálogo de productos, sino que también entiende las preferencias y comportamientos de los clientes. Al interactuar con ellos, el asistente puede dirigir a los compradores hacia productos que realmente les interesan, haciendo que el proceso de compra sea más eficiente y agradable."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "2. Respuestas Instantáneas a Preguntas Frecuentes"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Con un \"cerebro\" que puede almacenar y procesar una enorme cantidad de información, el asistente de compra de IA está preparado para responder a las dudas de los clientes al instante. Esto significa que los compradores no tienen que esperar en largas filas para obtener respuestas o buscar información en el sitio web. Este tipo de atención al cliente instantánea contribuye a una experiencia de compra más fluida y, a su vez, ayuda a aumentar las tasas de conversión."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Beneficios Clave para las Marcas"
+      },
+      {
+        "tipo": "apartado",
+        "texto": "1. Incremento en la Retención de Clientes"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Gracias a la atención personalizada y el soporte continuo que brinda el asistente de compra de IA, las marcas pueden cultivar relaciones más profundas con sus consumidores. Cuando un cliente siente que sus necesidades son comprendidas y atendidas, es mucho más probable que regrese para realizar futuras compras. Esto se traduce en una mayor lealtad y, finalmente, en un incremento sostenible en las ventas."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "2. Optimización del Camino del Cliente"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Uno de los mayores desafíos en el e-commerce es crear un camino de compra que sea sencillo y directo. El asistente de compra de IA actúa como un guía, ayudando a los clientes a navegar por diferentes opciones y asegurándose de que encuentren exactamente lo que buscan. Este nivel de soporte no solo mejora la experiencia del usuario, sino que también optimiza el proceso de conversión, facilitando un aumento significativo en las ventas."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "El Futuro del Comercio Electrónico"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La implementación de asistentes de compra de IA como el desarrollado por THG Ingenuity, junto con Google Cloud, es solo el comienzo. A medida que más marcas comiencen a adoptar esta tecnología, podemos esperar ver un mayor enfoque en la personalización y la optimización del viaje del cliente. Esto representa una oportunidad de oro para las empresas que desean destacar en un mercado cada vez más competitivo, convirtiendo la simple compra en una experiencia memorable."
+      }
+    ]
+  },
+  {
     "titulo": "Embajadores Autónomos de Compra: Captador de Buy Box para Marketplaces",
     "meta_descripcion": "Tendencia 17 Jun 2026: agentic commerce y pagos IA; cómo pymes pueden ganar Buy Box optimizando catálogos y experiencia.",
     "resumen": "Hoy, 17 de junio de 2026, la tendencia clave es el 'agentic commerce': asistentes de IA capaces de buscar, seleccionar y pagar productos en nombre del usuario, impulsada por protocolos abiertos y nuevas integraciones de pagos. Para directivos: priorice catálogos machine-readable, optimización de Buy Box y reglas de inventario/precio para capturar conversiones de estos embajadores virtuales y reducir CAC, con resultados medibles a corto plazo. citeturn0news15turn0search7turn0search2",
