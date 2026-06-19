@@ -1,5 +1,82 @@
 [
   {
+    "titulo": "El Conserje de Conversión para Marketplaces",
+    "meta_descripcion": "Asistentes de compra agentic (17‑18 jun 2026): eleva conversiones, reduce abandono y acelera integración catálogo‑checkout para PYMES.",
+    "resumen": "Resumen ejecutivo: El 17‑18 de junio de 2026 se consolidó la tendencia de asistentes de compra agentic para tiendas y marketplaces; estas soluciones unen catálogo, búsqueda semántica y ejecución de checkout para subir conversiones y reducir abandono de carrito. Lanzamientos recientes como THG Ingenuity sobre Gemini Enterprise y actualizaciones de plataformas (Shopify, AWS) indican disponibilidad comercial inmediata y potencial de ROI en meses para medianas empresas. citeturn2search1turn2search3turn2search2turn0search8",
+    "imagen_header": "https://res.cloudinary.com/dxukuetdc/image/upload/v1781849025/jkl77dpqwgjdpvzv3tan.jpg",
+    "imagen_footer": "https://res.cloudinary.com/dxukuetdc/image/upload/v1781849047/dgxivblblqfjaawb4wrm.jpg",
+    "contenido": [
+      {
+        "tipo": "subtitulo",
+        "texto": "Introducción a Gemini Enterprise"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En el competitivo mundo del comercio electrónico, la forma en que las empresas interactúan con sus clientes puede determinar su éxito o fracaso. Es aquí donde surge el concepto de \"gemelo digital\", o en este caso, el \"Conserje de Conversión\". Así como un conserje facilita la experiencia de un huésped en un hotel, Gemini Enterprise de Google Cloud se presenta como una solución revolucionaria que transforma la experiencia del cliente en los marketplaces."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "¿Qué es Gemini Enterprise?"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Gemini Enterprise para Customer Experience es una plataforma de inteligencia artificial diseñada para unificar diversos aspectos de la experiencia del cliente: desde las compras hasta la atención al cliente. Imagina un empleado que nunca duerme, siempre disponible para satisfacer las necesidades de los clientes. Este \"empleado digital\" puede razonar, actuar y llevar a cabo transacciones a lo largo de toda la interacción con el cliente, lo que lo convierte en un verdadero conserje de conversión."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "La Evolución de la Experiencia del Cliente"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Con la presentación de Gemini Enterprise en la National Retail Federation 2026, Google Cloud está marcando un hito en el sector del comercio. Esta solución no solo responde preguntas; va más allá, integrando flujos de trabajo de compras y servicio al cliente en una única interfaz inteligente. En esencia, es una evolución hacia un servicio más proactivo y personalizado, donde las marcas pueden anticiparse a las necesidades del consumidor."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "¿Por qué es Importante para los Marketplaces?"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los marketplaces, donde varias marcas y productos compiten por la atención del cliente, demandan herramientas que mejoren la experiencia del usuario. Con Gemini Enterprise, las empresas pueden gestionar la interacción del cliente desde el descubrimiento del producto hasta la resolución de problemas post-compra. Esto no solo mejora la satisfacción del cliente, sino que también impulsa la lealtad y, en última instancia, las ventas."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Elementos Clave de Gemini Enterprise"
+      },
+      {
+        "tipo": "apartado",
+        "texto": "1. Procesos de Compra y Soporte Unificados"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Gemini Enterprise actúa como un conserje digital que mantiene el hilo conductor de la experiencia del cliente. Desde que un cliente comienza a buscar un producto, el sistema sabe qué buscar, cómo presentar las opciones y puede incluso realizar tareas complejas, como resolver problemas de cumplimiento o emitir reembolsos en tiempo real. Esto crea una experiencia más fluida y confiable."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "2. Agentes de Soporte en el Ciclo del Cliente"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La plataforma integra agentes preconstruidos que pueden ser configurados fácilmente para diferentes necesidades comerciales. Imagina un asistente personalizado que conoce las preferencias de compra y puede ayudar a los usuarios a encontrar productos ajustados a sus gustos. Esto no solo mejora la interacción, sino que posiciona a las marcas como partners confiables en el recorrido de compra del cliente."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Un Futuro Contextual en el Comercio Electrónico"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A medida que avanzamos hacia un futuro lleno de inteligencia artificial y interacciones digitales, Gemini Enterprise se posiciona como líder en este cambio paradigmático. La plataforma integra protocolos abiertos, como el Universal Commerce Protocol, que permiten una conexión más fluida entre sistemas de IA, infraestructuras y redes de socios. Esto marca el inicio de una nueva era en la que la inteligencia contextual será el pilar de las plataformas de experiencia del cliente."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "Conclusión sobre el Conserje de Conversión"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La implementación de un conserje de conversión como Gemini Enterprise no solo es una inversión en tecnología, sino una decisión estratégica que puede transformar cómo los marketplaces interactúan y se relacionan con sus clientes. En un entorno donde la competencia es feroz y las expectativas son altas, aquellos que adopten soluciones como Gemini estarán mejor preparados para ofrecer una experiencia del cliente excepcional, y eso se traduce en ventajas significativas en términos de ingresos y lealtad."
+      }
+    ]
+  },
+  {
     "titulo": "El Concierge de Conversión: Asistente de Compra IA para E‑commerce",
     "meta_descripcion": "Asistente de compra IA (THG Ingenuity) que promete multiplicar conversiones; guía práctica para directivos y ROI en pymes mexicanas.",
     "resumen": "Tendencia detectada: lanzamiento del AI Shopping Assistant de THG Ingenuity (17 junio 2026), que en su anuncio reporta hasta 8x más conversiones para e‑commerce. citeturn0search2 Para medianas empresas mexicanas significa una vía rápida para aumentar ventas y mejorar tasa de conversión mediante personalización conversacional y checkout asistido; respaldado por el aumento del tráfico AI a minoristas (+393% Q1 2026). citeturn0search5",
