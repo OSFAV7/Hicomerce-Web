@@ -1,5 +1,78 @@
 [
   {
+    "titulo": "Puente Agentic: La capa que convierte IA en clientes",
+    "meta_descripcion": "Capa 'agentic' que integra catálogo y pagos para que asistentes IA completen compras: más conversiones, menos fricción y ROI rápido.",
+    "resumen": "Tendencia: 'Agentic Commerce' — capas comerciales (APIs) que permiten a asistentes de IA descubrir, cotizar y pagar productos directamente. Valor ejecutivo: captura ventas nuevas desde asistentes y marketplaces, reduce fricción de checkout y ofrece pilotos de implementación rápida con ROI medible en meses.",
+    "imagen_header": "https://res.cloudinary.com/dxukuetdc/image/upload/v1782194531/jcrgwl2mdprmuhpiwozd.jpg",
+    "imagen_footer": "https://res.cloudinary.com/dxukuetdc/image/upload/v1782194553/ecsik7hp1wa1lpfwvttb.jpg",
+    "contenido": [
+      {
+        "tipo": "subtitulo",
+        "texto": "La Revolución del Comercio Agentic"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En un mundo donde la tecnología avanza a pasos agigantados, el comercio está experimentando una transformación significativa gracias a la inteligencia artificial (IA). Adyen, una plataforma financiera de vanguardia, ha cambiado las reglas del juego con su lanzamiento de Adyen Agentic. Este innovador sistema funciona como un \"traductor universal\" que permite a los negocios interactuar eficientemente con múltiples plataformas de IA, sin necesidad de realizar ajustes complejos cada vez que surge un nuevo canal de venta."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La elección de los comerciantes nunca ha sido tan complicada, ya que cada nuevo avance tecnológico introduce una nueva capa de integración que, en el pasado, requería inversiones significativas en tiempo y recursos. Adyen Agentic actúa como un empleado que trabaja sin descanso, tomando una sola incorporación y adaptándola a los diferentes formatos y requisitos de pago que cada nueva plataforma demanda, permitiendo así que las empresas se concentren en lo que realmente les importa: sus clientes."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "¿Qué es Adyen Agentic?"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Adyen Agentic se compone de una suite modular de APIs que guía a las empresas a través de las distintas etapas de la experiencia del cliente en el comercio habilitado por IA. Esta suite incluye tres componentes esenciales: Agentic Feed, Agentic Cart y Agentic Payments, cada uno diseñado para optimizar el recorrido del consumidor desde el descubrimiento de productos hasta el pago final."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "1. Agentic Feed: El Cerebro Digital"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El primero de estos componentes, Agentic Feed, sirve como el \"cerebro digital\" que proporciona información precisa y en tiempo real sobre los productos a las plataformas de IA. Esto no solo asegura que la oferta sea exactamente lo que el consumidor está buscando, sino que también optimiza la experiencia de compra al conectar rápidamente a los clientes con la información necesaria."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "2. Agentic Cart: El Empleado Que No Duerme"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Luego está Agentic Cart, que actúa como un empleado que no duerme, convirtiendo el interés del cliente en carritos de compra listos para el pago. Este módulo se adapta dinámicamente a los precios, impuestos y gastos de envío en el momento de la selección, facilitando un proceso de compra fluido y eficiente. Sin este componente, las empresas estarían lidiando con un caos de carritos incompletos y una experiencia de compra frustrante."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "3. Agentic Payments: Seguridad y Control"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Finalmente, Agentic Payments se encarga de que cada transacción sea segura y esté bajo control. Este proceso es esencial en un entorno donde la seguridad de los pagos es crucial. Con un motor de riesgo optimizado por trillones de transacciones, Adyen protege tanto a los comerciantes como a los consumidores, diferenciando entre un agente de IA legítimo y un potencial ataque robótico. En un mundo donde el fraude está siempre a la vuelta de la esquina, este tipo de protección es invaluable."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "La Interoperabilidad Como Solución"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La verdadera grandeza de Adyen Agentic radica en su diseño como un ecosistema abierto. A diferencia de soluciones cerradas que limitan la flexibilidad de los comerciantes, Adyen Agentic permite que una sola integración se adapte a diferentes plataformas y métodos de pago. Esto significa que las empresas pueden evolucionar y expandirse con confianza en el paisaje cambiante del comercio digital."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Con la llegada de múltiples protocolos como el Agentic Commerce Protocol (ACP) de OpenAI y el Universal Commerce Protocol (UCP) de Google, la interoperabilidad se convierte en un objetivo esencial. Adyen no solo aborda este desafío; lo convierte en su propósito central, otorgando a los comerciantes el poder de conectar con diversas plataformas sin complicaciones adicionales."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "Conclusiones Iniciales"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En resumen, Adyen Agentic no es solo una herramienta; es un cambio radical en la manera en que las empresas pueden interactuar con la inteligencia artificial y los clientes. Al eliminar la complejidad de integraciones múltiples y proporcionar una solución uniforme, Adyen Agentic establece un nuevo estándar para el comercio digital, permitiendo a los comerciantes centrarse en el crecimiento, la experiencia del cliente y la innovación."
+      }
+    ]
+  },
+  {
     "titulo": "El Ejecutor de Compra: Comercio Autónomo para Marketplaces",
     "meta_descripcion": "Agentic commerce 2026: agentes de IA en marketplaces que aumentan conversiones y reducen costos operativos para pymes en México.",
     "resumen": "Hoy, 22 de junio de 2026, la tendencia más prometedora es el 'agentic commerce': agentes de IA que descubren, comparan y ejecutan compras gracias al avance en pagos y protocolos de interoperabilidad. Para un directivo, esto significa oportunidad rápida para capturar compras delegadas mejorando catálogos legibles por máquinas y sincronizando inventario, lo que aumenta conversiones y reduce fricción operativa. Implementando controles operativos mínimos y pasarelas de pago compatibles se convierte interés en ingresos con bajo cambio organizacional. citeturn1search1turn1search0turn1news12turn0search3turn1search11",
