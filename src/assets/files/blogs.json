@@ -1,5 +1,70 @@
 [
   {
+    "titulo": "El Orquestador de Compras Autónomas para Marketplaces",
+    "meta_descripcion": "Tendencia 24/06/2026: agentic commerce—IA que compra en marketplaces para mejorar conversión, controlar inventario y reducir costos operativos.",
+    "resumen": "El 24 de junio de 2026, la tendencia más vendible a directivos es el 'agentic commerce': IA que actúa como comprador en marketplaces y canales propios. Aporta beneficios medibles—más conversión, menos roturas de stock y procesos de devolución/pago simplificados—y se puede demostrar con pilotos de bajo riesgo centrados en Buy Box y gestión de inventario.",
+    "imagen_header": "https://res.cloudinary.com/dxukuetdc/image/upload/v1782280913/rlvtjauckzcokweew8sn.jpg",
+    "imagen_footer": "https://res.cloudinary.com/dxukuetdc/image/upload/v1782280935/mpvxf2ybr1l4cpiicqbt.jpg",
+    "contenido": [
+      {
+        "tipo": "subtitulo",
+        "texto": "El Auge del Agentic Commerce"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En el contexto actual del comercio electrónico, el concepto de \"Agentic Commerce\" está emergiendo como una revolución. Imagine un empleado que nunca duerme y que siempre está disponible para gestionar las compras de forma autónoma. Este enfoque transforma la manera en que los consumidores interactúan con las plataformas comerciales al permitir que agentes de inteligencia artificial realicen tareas normalmente reservadas para seres humanos, como descubrir productos, negociar precios y realizar transacciones."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A medida que este modelo se expande, es vital entender cómo se relaciona con los desafíos de fraude y regulación. Las empresas están invirtiendo cada vez más para prevenir disputas y proteger a sus clientes legítimos de rechazos falsos, pero la rapidez del Agentic Commerce está cambiando las reglas del juego. Con cada nueva tecnología, los problemas asociados al fraude aumentan, lo que exige que las empresas adapten sus sistemas de riesgo y cumplimiento."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Retos y Oportunidades en el Agentic Commerce"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En un mundo donde las decisiones de compra son instantáneas gracias a la inteligencia artificial, las empresas deben enfocarse en mantener el control sin completamente delegar la responsabilidad. Esto significa crear sistemas antifraude capaces de diferenciar entre interacciones legítimas y automatizaciones maliciosas. Se requieren marcos de responsabilidad claros y flujos de trabajo de cumplimiento que se ajusten a nuevas normas que evolucionan rápidamente."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "Construcción de una Infraestructura Sólida"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Para aprovechar al máximo el Agentic Commerce, las empresas no deben duplicar esfuerzos con cada nuevo agente de IA que surja. En su lugar, es recomendable construir una infraestructura que permita la integración única de estos agentes, contribuyendo a un ecosistema más escalable y menos fragmentado. Esto puede lograrse mediante el uso de un protocolo estándar que facilite la comunicación efectiva entre los diferentes agentes de IA y los minoristas."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "La importancia de mantener el Control"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Delegar no implica rendirse. En lugar de eso, es fundamental establecer límites claros y mantener un registro auditable de las autorizaciones. Esta transparencia asegura que las empresas puedan conservar su autoridad sobre la relación con el cliente y, a su vez, resguardar su reputación en el mercado. En este nuevo entorno, es crucial mantener la responsabilidad intacta."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Un Nuevo Paradigma en el Comercio"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Agregar inteligencia artificial a la experiencia de compra no es solo una tendencia; es un cambio radical que redefine lo que significa comerciar. En el corazón de Agentic Commerce está la premisa de que las compras no solo se realizan de forma más rápida, sino de manera más contextualizada. Los agentes no solo buscan palabras clave, sino que entienden el contexto de lo que los consumidores desean, facilitando así una experiencia de compra personalizada."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "Protocolos Abiertos para Facilitar Integraciones"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El \"Universal Commerce Protocol\" (UCP) es un paso crucial para garantizar que todos los agentes de IA y minoristas puedan comunicarse eficazmente a lo largo de todo el proceso de compra. Al estandarizar las integraciones, se minimizan los obstáculos técnicos que pueden fragmentar el mercado, permitiendo así un ecosistema más integrado y fluido. Esto significa que el futuro del comercio será más colaborativo y menos aislado."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En la siguiente sección, profundizaremos en cómo Google, a través de su iniciativa de Agentic Commerce, está cambiando el panorama del comercio electrónico, y cómo los negocios pueden adaptarse a estos cambios disruptivos."
+      }
+    ]
+  },
+  {
     "titulo": "Puente Agentic: La capa que convierte IA en clientes",
     "meta_descripcion": "Capa 'agentic' que integra catálogo y pagos para que asistentes IA completen compras: más conversiones, menos fricción y ROI rápido.",
     "resumen": "Tendencia: 'Agentic Commerce' — capas comerciales (APIs) que permiten a asistentes de IA descubrir, cotizar y pagar productos directamente. Valor ejecutivo: captura ventas nuevas desde asistentes y marketplaces, reduce fricción de checkout y ofrece pilotos de implementación rápida con ROI medible en meses.",
