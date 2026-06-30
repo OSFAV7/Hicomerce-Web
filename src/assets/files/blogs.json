@@ -1,5 +1,74 @@
 [
   {
+    "titulo": "El Catalizador de Compras Autónomas",
+    "meta_descripcion": "Cómo el 'agentic commerce' (compras autónomas por IA) aumenta ventas y reduce costos en pymes; ejemplos reales y pasos prácticos.",
+    "resumen": "El 'agentic commerce' (IA que busca, compra y paga por el cliente) se consolidó el 29-30 de junio de 2026 con anuncios de Oracle, Salesforce y redes de pago. Para directivos de pymes mexicanas ofrece reducción de costos operativos, aumento de conversión y simplificación del checkout; la recomendación es lanzar un piloto de 60–90 días enfocado en datos de producto, reglas de pago y controles antifraude.",
+    "imagen_header": "https://res.cloudinary.com/dxukuetdc/image/upload/v1782799320/tu9jp0mfmwq7d2omefpf.jpg",
+    "imagen_footer": "https://res.cloudinary.com/dxukuetdc/image/upload/v1782799342/o0jukgnjqetp99ojbqzv.jpg",
+    "contenido": [
+      {
+        "tipo": "subtitulo",
+        "texto": "La Revolución del Procurement con Oracle Fusion Cloud"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En el dinámico mundo empresarial, la capacidad de adaptarse y evolucionar se ha convertido en un imperativo. El surgimiento de Oracle Fusion Cloud Procurement es una respuesta directa a esta necesidad, actuando como un auténtico \"cerebro digital\" que transforma el proceso de compras. Este conjunto integrado de soluciones abarca desde el abastecimiento hasta la liquidación, y se erige como un aliado poderoso para las empresas que buscan optimizar su eficiencia y reducir riesgos."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El enfoque moderno que propone Oracle no se limita a la automatización de tareas tediosas; su propuesta va mucho más allá. Imagina un empleado que nunca duerme y siempre sigue tus instrucciones. Este empleado inteligente simplifica las compras, mejora la gestión de proveedores y permite tomar decisiones basadas en datos sólidos. Así, las organizaciones pueden centrarse en lo que realmente importa: construir relaciones duraderas con sus aliados estratégicos."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Beneficios del Abastecimiento Inteligente"
+      },
+      {
+        "tipo": "apartado",
+        "texto": "1. Abastecimiento Estratégico"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En el contexto actual, donde la agilidad es clave, el abastecimiento estratégico se convierte en la brújula que guía a las empresas. La capacidad de identificar oportunidades de ahorro y renegociar contratos en tiempo real pone a las organizaciones un paso adelante en el competitivo mundo del comercio. Alguna vez una tarea manual, hoy se transforma en un proceso optimizado que emplea la inteligencia artificial para prever tendencias y comportamientos del mercado."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "2. Automatización de Contratos"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Imagina poder gestionar contratos conformes a normativas sin el riesgo de cometer errores humanos. Con la automatización inteligente de contratos, las empresas pueden asegurarse de que todas las condiciones se cumplan sin desviaciones. Esta capacidad no solo reduce el riesgo, sino que también libera tiempo y recursos para que los equipos se concentren en la gestión estratégica y desarrollo de nuevas oportunidades."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "3. Compras Estratégicas y Control de Gastos"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La habilidad para facilitar compras estratégicas y controlar los gastos en tiempo real se asemeja a tener un asistente personal que analiza cada transacción y te instruye sobre cómo mejorar cada decisión de compra. Este enfoque proactivo permite que las empresas maximicen su retorno sobre la inversión, identificando rápidamente áreas donde pueden reducir costos o mejorar las condiciones de compra."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "La Experiencia de Compra de Autoservicio"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La digitalización ha cambiado la forma en que los consumidores y las empresas realizan transacciones. Ahora, la experiencia de compra de autoservicio no solo facilita el proceso, sino que también empodera a los usuarios al ofrecerles el control total de sus decisiones de compra. Este giro hacia el autoservicio, respaldado por la inteligencia artificial, significa menos fricciones y una experiencia más fluida tanto para el comprador como para el proveedor."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "La Relación con Proveedores y Gestión de Riesgos"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En un ecosistema tan interconectado, gestionar las relaciones y los riesgos en toda la cadena de suministro nunca ha sido más crucial. Gracias a herramientas avanzadas de análisis y colaboración, las empresas pueden tener una visión clara del comportamiento de sus proveedores, detectar posibles problemas antes de que surjan y forjar relaciones más sólidas y colaborativas. Este enfoque se traduce en una mayor seguridad y menos sorpresas desagradables en el camino."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Con Oracle Fusion Cloud Procurement, las empresas no solo están invirtiendo en tecnología; están apostando por un futuro donde las compras se realizan de manera más eficiente, dinámica y segura. La integración de la inteligencia artificial y la analítica avanzada abre un abanico de posibilidades que redefine la manera en que se manejan las compras en el ámbito empresarial. Cada decisión tomada se puede respaldar con datos, lo que permite a las organizaciones ser más ágiles y competitivas en un mercado en constante evolución."
+      }
+    ]
+  },
+  {
     "titulo": "Embajadores Virtuales de Compra: IA que Cierra la Venta y Protege la Buy Box",
     "meta_descripcion": "Agentes de IA que completan compras y pagos en marketplaces; aumentan conversiones, protegen la Buy Box y reducen fricción operativa para PYMEs (29 Jun 2026).",
     "resumen": "La tendencia clave (últimas 48 h) es el despliegue de \"agentic commerce\": IA que puede llevar al usuario desde la publicidad hasta el pago dentro de la misma conversación (Alexa+ Agentic Ads) y ejecutar pagos integrados (Visa‑OpenAI), mientras los grandes modelos con capacidad de agentes avanzan bajo restricciones regulatorias. Esta combinación ofrece a empresas medianas un camino rápido para aumentar conversiones, automatizar repricing y reducir fricción operativa, pero requiere limpieza de datos de producto, controles de pagos y supervisión de cumplimiento. citeturn5search0turn5search4turn1search12turn2search0turn0search4",
