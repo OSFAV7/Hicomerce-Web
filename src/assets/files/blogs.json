@@ -1,5 +1,78 @@
 [
   {
+    "titulo": "Operación 1,000: Fábrica IA de Creadores para TikTok Shop",
+    "meta_descripcion": "Automatiza captación y gestión de 1,000 creadores con IA para aumentar ventas en TikTok Shop y reducir CAC en semanas.",
+    "resumen": "Propuesta para directivos: crear una 'Fábrica' que automatiza identificación, briefing y gestión de creadores y la generación de videos de producto con IA para ganar visibilidad en campañas como Deals For You Days. Reduce CAC, acelera GMV y escala operaciones — la seeding scale pasó a 1,000 creadores y TikTok prioriza contenido de marca en 2026. citeturn2view0turn4view1turn4view0",
+    "imagen_header": "https://res.cloudinary.com/dxukuetdc/image/upload/v1782972204/gyv56pqnl9z6igjidiaw.jpg",
+    "imagen_footer": "https://res.cloudinary.com/dxukuetdc/image/upload/v1782972226/w0l6yyxt4zenscnhodrk.jpg",
+    "contenido": [
+      {
+        "tipo": "subtitulo",
+        "texto": "La Revolución Digital de las Pequeñas y Medianas Empresas"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En el mercado actual, las pequeñas y medianas empresas (PYMES) enfrentan desafíos cada vez más complejos. La presión para ser competitivas ha llevado a muchos negocios a explorar nuevas soluciones que les ayuden a optimizar su operación. Aquí es donde la inteligencia artificial (IA) se convierte en un verdadero aliado, actuando como un **empleado que no duerme**, capaz de manejar tareas repetitivas y proporcionar insights de valor en tiempo real."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Implementar IA no solo se trata de adoptar una nueva tecnología; es iniciar un viaje hacia una **eficiencia operativa** sin precedentes. Desde la automatización de procesos hasta la personalización de la experiencia del cliente, las ventajas que ofrece la IA son diversas y poderosas."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Automatización de Procesos y Reducción de Costes"
+      },
+      {
+        "tipo": "apartado",
+        "texto": "Incremento en la Productividad y Eficiencia"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Según estudios recientes, las PYMES que integran herramientas de inteligencia artificial en su funcionamiento pueden experimentar un aumento en la productividad de marketing y ventas superior al 20%, además de una notable reducción de costes, que puede alcanzar hasta un 30%. Este impacto se traduce en mayor eficiencia en cada esquina del negocio."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Imagina contar con un **cerebro digital** que pueda responder consultas de los clientes 24/7, manejar miles de conversaciones simultáneamente y ayudar en la gestión de ventas. Este tipo de tecnología permite a las empresas no solo cerrar ventas más rápidamente, sino también mejorar la atención al cliente, todo sin agregar más carga a los empleados."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Mejora de la Experiencia del Cliente"
+      },
+      {
+        "tipo": "apartado",
+        "texto": "Personalización y Satisfacción"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La experiencia del cliente es crucial en cualquier negocio, y la IA puede transformarla radicalmente. Al utilizar asistentes virtuales y chatbots, las empresas pueden ofrecer un servicio más personalizado y eficiente. Esto se traduce en tiempos de respuesta más cortos y soluciones a problemas de manera más efectiva, lo que resulta en una mayor satisfacción del cliente."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Por ejemplo, en sectores como el comercio electrónico, la IA permite hacer recomendaciones personalizadas en tiempo real y gestionar el inventario de manera óptima. Así, no solo se atienden las necesidades de los consumidores, también se permiten anticipar sus deseos, lo que es fundamental en un mundo donde el consumidor busca cada vez más atención y personalización."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Conectando la IA con Sistemas Internos"
+      },
+      {
+        "tipo": "apartado",
+        "texto": "De Empresa Operativa a Empresa Inteligente"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Para aprovechar al máximo los beneficios de la IA, es esencial integrarla con los sistemas internos existentes de la empresa, como las plataformas de CRM, ERP y facturación. Esta integración permite que la IA no solo responda a preguntas, sino que entre en acción y ejecute tareas concretas."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cuando una PYME es capaz de conectar su **memoria infinita** de datos con sus operaciones diarias, comienza a operar como una **empresa inteligente**. Esto significa pasar de un enfoque reactivo a uno proactivo, donde las decisiones se toman basándose en la analítica de datos y las predicciones comerciales, creando una ventaja competitiva sostenible."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En este sentido, el programa de transformación digital para PYMES de ENAE ofrece un camino claro y estructurado para llevar a cabo esta transición. No se trata de implementar tecnología sin un plan claro; se trata de entender las necesidades y dolores operativos antes de adentrarse en el entorno digital."
+      }
+    ]
+  },
+  {
     "titulo": "El Ganador Automático del Buy Box",
     "meta_descripcion": "IA que automatiza listings, anuncios e inventario para que pymes mexicanas ganen Buy Box, reduzcan ACOS y aumenten ventas con ROI medible.",
     "resumen": "Hoy, 1 de julio de 2026, la tendencia más prometedora es el despliegue de agentes IA comerciales que automatizan optimización de listings, pujas y gestión de inventario en marketplaces. Para un directivo, esto significa más ventas y menores costos (mejor Buy Box, ACOS reducido, menos rupturas de stock) con pilotos de 6–10 semanas y ROI medible.",
