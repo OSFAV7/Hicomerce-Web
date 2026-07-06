@@ -1,5 +1,74 @@
 [
   {
+    "titulo": "Compra Invisible: Pagos In-Agente que Cierran la Venta",
+    "meta_descripcion": "Pagos in-agent para marketplaces: elimina fricción de checkout, captura tráfico IA y aumenta conversión y margen.",
+    "resumen": "Tendencia clave: pagos 'in-agent' — IA que completa y autoriza compras dentro del propio agente. Para directivos: reduce fricción de compra, protege visibilidad en marketplaces y aumenta conversión sin grandes cambios técnicos. Implementación focalizada en pymes medianas puede generar retorno rápido por mayores ventas y menos carritos abandonados.",
+    "imagen_header": "https://res.cloudinary.com/dxukuetdc/image/upload/v1783317680/d3zzj49exiwgqsa6laq0.jpg",
+    "imagen_footer": "https://res.cloudinary.com/dxukuetdc/image/upload/v1783317700/dekog7d7zdrnzjwlvqcn.jpg",
+    "contenido": [
+      {
+        "tipo": "subtitulo",
+        "texto": "La Nueva Era del Comercio Digital"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En el mundo del comercio digital, cada vez es más común escuchar sobre el \"Agentic Commerce\". Este concepto, que podríamos llamar \"compras autónomas\", se refiere a cómo la tecnología está transformando la manera en que compramos. Imagina tener un empleado que trabaja 24/7 para ti, buscando y comprando productos a la mejor opción disponible, sin que tú tengas que intervenir. Esa es la esencia del Agentic Commerce."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dado que el 82% de las ventas en plataformas como Amazon se realizan a través del Buy Box, es vital no solo entender qué es, sino también cómo influye en el éxito de un negocio. En este sentido, la competencia se vuelve feroz, y solo aquellos que logren captar la atención del consumidor a través de esta \"compra invisible\" estarán en la primera fila para cerrar la venta."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "¿Qué es el Buy Box y por qué es crucial para tu negocio?"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cuando un cliente busca un producto en Amazon, puede encontrar múltiples vendedores ofreciendo lo mismo. No obstante, solo uno de ellos logra aparecer en el Buy Box, el área más visible y codiciada de la página de producto. Al estar en esta posición privilegiada, el vendedor aumenta significativamente sus probabilidades de venta. Si no logras capturar este espacio, es como si tu tienda estuviera en una calle desierta."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Cómo funciona el Buy Box"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El Buy Box no se basa únicamente en ofrecer el precio más bajo. Piensa en ello como una balanza en la que se combinan diferentes elementos: precio, servicio al cliente, métricas de rendimiento y opciones de envío. Este balance hace que Amazon elija al vendedor que ofrece la mejor experiencia al comprador. Si bien es posible que un vendedor más barato no siempre gane, ofrecer un servicio excepcional puede inclinar la balanza a su favor."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Un punto importante a destacar es que Amazon a menudo rotará el Buy Box entre varios vendedores que cumplan con los criterios necesarios. Esto significa que incluso si no logras el Buy Box hoy, podrías estar en posición de ganarlo mañana si mejoras tus métricas. Sin embargo, para aquellos que intentan competir con Amazon como vendedor directo, la lucha puede ser desalentadora. Por eso, es recomendable concentrarse en nichos donde Amazon no esté presente como vendedor."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "El impacto del Agentic Commerce en las ventas"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Imagínate un cliente buscando unas zapatillas. En lugar de explorar varias opciones y pasar por un proceso largo de compra, un agente autónomo puede realizar esta tarea en segundos. Este \"cerebro digital\" no solo encuentra el mejor precio, sino que también analiza las reseñas, compara características y, finalmente, ejecuta la transacción."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Este cambio de paradigma no solo simplifica la experiencia del cliente, sino que también representa un gran reto para los vendedores. El comercio tradicional está dando paso a decisiones automatizadas y rápidas, lo cual puede hacer que las empresas que no se adapten queden atrás. La clave aquí es no solo estar presente en el mercado, sino estar visible y relevante para esos agentes que están comprando en nombre del consumidor."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Tendencias en los Pagos Digitales de 2026"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Con la implementación de tecnologías avanzadas como las stablecoins, el paisaje de los pagos digitales está experimentando una transformación increíble. Las empresas que comiencen a integrar estas monedas ahora estarán mejor preparadas para liquidar transacciones de manera más eficiente y fluida. Las stablecoins prometen liquidaciones 24/7, permitiendo a tu negocio mantener un flujo constante de caja, incluso fuera de los horarios comerciales."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A medida que la tecnología avanza, también lo hace el significado de “ser visible” en el mundo digital. Integrarse a estos avances no es solo una opción, sino una necesidad urgente para quienes busquen no solo sobrevivir, sino prosperar en el comercio electrónico."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En conclusión, en esta nueva era del comercio digital, donde las decisiones de compra son cada vez más rápidas y automatizadas, ganar el Buy Box se convierte en un objetivo esencial. Además, adaptarse al Agentic Commerce y a las nuevas tecnologías de pago puede ser la diferencia entre ser un comerciante exitoso o uno invisible en el vasto océano de internet."
+      }
+    ]
+  },
+  {
     "titulo": "Concierge Autónomo de Conversión en Marketplaces",
     "meta_descripcion": "IA que compra por clientes en marketplaces: aumenta conversión, AOV y reduce costos operativos. Guía práctica para directivos.",
     "resumen": "Los \"Concierges Autónomos\" usan agentes de IA para gestionar descubrimiento, negociación y checkout en marketplaces y e‑commerce. Para un directivo significa mayor conversión y AOV, menos costos operativos y decisiones de inventario automatizadas; proponemos un piloto de 60–90 días con integración de pagos, gobernanza y KPIs claros.",
