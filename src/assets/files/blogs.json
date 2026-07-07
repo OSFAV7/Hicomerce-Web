@@ -1,5 +1,82 @@
 [
   {
+    "titulo": "La Pasarela de Compra Autónoma",
+    "meta_descripcion": "Agentic commerce (jul 2026): cómo las compras autónomas aumentan conversiones, integran checkout y reducen costos operativos para empresas medianas.",
+    "resumen": "Tendencia: la llegada masiva del 'agentic commerce' — plataformas y proveedores anunciaron integraciones que permiten a asistentes de IA iniciar y completar compras (Salesforce lanzó Agentforce Commerce el 6 de julio de 2026). citeturn1search0 Impacto para empresas medianas en México: potencial para aumentar conversiones y reducir CAC al transformar recomendaciones AI en checkout directo; ya hay agentes con millones de usuarios y pruebas de pago dentro del flujo de agente. citeturn1search9turn1search3turn0search11 Riesgos clave: atribución, fraude y responsabilidades legales frente a compras automatizadas — requiere controles de identidad, trazabilidad y políticas claras antes de producción. citeturn1search5",
+    "imagen_header": "https://res.cloudinary.com/dxukuetdc/image/upload/v1783404151/yv07ndu5ejtag62gfqdx.jpg",
+    "imagen_footer": "https://res.cloudinary.com/dxukuetdc/image/upload/v1783404171/errys3dztyfw92qjfziw.jpg",
+    "contenido": [
+      {
+        "tipo": "subtitulo",
+        "texto": "¿Qué es el Agentic Commerce?"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En un mundo donde cada día se vuelve más digital, el Agentic Commerce se presenta como un cerebro digital capaz de tomar decisiones de compra por nosotros. Este modelo no solo recomienda productos, sino que los descubre, los compara y elige la mejor opción, todo de forma autónoma, sin que necesitemos abrir un navegador. Los consumidores más jóvenes están abrumados con opciones, y es aquí donde entra en juego esta innovadora pasarela de compra autónoma."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Un dato relevante es que, según estudios recientes, el 70% de los consumidores está abierto a que un agente gestione sus compras. No obstante, solo un 17% se siente realmente cómodo de realizar una compra a través de inteligencia artificial. Esto indica que, aunque la intención es alta, la confianza en este tipo de tecnología aún no se ha consolidado completamente."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "La Evolución del E-commerce y el Agentic Commerce"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La paso del comercio tradicional al digital ha sido un viaje largo, pero el Agentic Commerce está acelerando esta transformación de manera sorprendente. Según Fortune y McKinsey, se espera que esta nueva modalidad represente el 10% de las ventas minoristas a nivel global en tres a cinco años. Esta cifra es notable, considerando que el comercio tradicional evolucionó lentamente durante dos décadas."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Todo comienza con la implementación de protocolos que permiten a los agentes de IA acceder directamente a nuestro historial de compras, entendiendo a la perfección nuestras necesidades y hábitos. Este sistema recuerda, por ejemplo, que si adquirimos unas zapatillas deportivas y ya han recorrido más de 1,000 kilómetros, sabe que es hora de Comprarlas de nuevo."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "¿Cómo Funciona el Agentic Commerce?"
+      },
+      {
+        "tipo": "apartado",
+        "texto": "Interacción con Plataformas"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En la práctica, el Agentic Commerce está impulsado por plataformas como Shopify y herramientas como ChatGPT Instant Checkout. Esto significa que, en un futuro cercano, podríamos hacer compras sin ni siquiera interactuar con una interfaz humana: solo a través de comandos sencillos."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Por ejemplo, si un consumidor busca un producto, el agente digital, como Perplexity, lo localiza y realiza la compra dentro de su propia interfaz. Esto elimina la necesidad de navegar por diferentes tiendas, haciendo que la experiencia de compra sea mucho más fluida y eficiente."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "La Confianza del Consumidor y el Futuro"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A pesar de las ventajas, el camino hacia el Agentic Commerce no está exento de obstáculos. Las cifras muestran que el 8% de los adultos en Estados Unidos ha utilizado la función de instant checkout, lo que indica que la adopción real es mucho más lenta de lo esperado. Esta resistencia se debe, en gran medida, a la falta de confianza en la tecnología. Errores documentados, como la confusión entre tallas en pedidos o productos mal representados, han alimentado esta desconfianza."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "Estrategias para Adaptarse"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Para las empresas que desean entrar en la era del Agentic Commerce, es crucial entender que la confianza del cliente se construye poco a poco. A medida que se desarrollan los protocolos de pago y las plataformas se vuelven más eficientes, también deben trabajar en transparentar sus procesos y garantizar la seguridad en las transacciones."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La clave está en facilitar la transición hacia esa pasarela de compra autónoma sin complicaciones ni dudas, lo que requiere que los comercios sean proactivos en la educación y formación sobre la inteligencia artificial en e-commerce."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Conclusión"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El Agentic Commerce representa el futuro del comercio digital, pero su éxito dependerá de la capacidad de las empresas para establecer la confianza del consumidor. Este camino está lleno de oportunidades, y aquellos que se adapten rápidamente a esta revolución tecnológica pueden beneficiarse enormemente, transformando la experiencia de compra en una que sea completamente autónoma y sin fricciones."
+      }
+    ]
+  },
+  {
     "titulo": "Compra Invisible: Pagos In-Agente que Cierran la Venta",
     "meta_descripcion": "Pagos in-agent para marketplaces: elimina fricción de checkout, captura tráfico IA y aumenta conversión y margen.",
     "resumen": "Tendencia clave: pagos 'in-agent' — IA que completa y autoriza compras dentro del propio agente. Para directivos: reduce fricción de compra, protege visibilidad en marketplaces y aumenta conversión sin grandes cambios técnicos. Implementación focalizada en pymes medianas puede generar retorno rápido por mayores ventas y menos carritos abandonados.",
