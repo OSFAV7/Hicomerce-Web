@@ -1,5 +1,62 @@
 [
   {
+    "titulo": "Embajadores Compradores: Motor Autónomo de Venta para Marketplaces",
+    "meta_descripcion": "Tendencia 10/07/2026: comercio impulsado por agentes IA que automatiza descubrimiento, checkout y pagos para aumentar conversiones y reducir costes en marketplaces.",
+    "resumen": "El 10 de julio de 2026, la tendencia más prometedora es el comercio impulsado por agentes de IA: asistentes que descubren, comparan y compran para el cliente, integrados con soluciones de pago ‘Agent Pay’. Para directivos de pymes y medianas empresas representa mayor conversión, menor ACOS/tiempo operativo y ROI medible en pilotos de 30–90 días.",
+    "imagen_header": "https://res.cloudinary.com/dxukuetdc/image/upload/v1783663283/hr4arche1kq5bajx3cpi.jpg",
+    "imagen_footer": "https://res.cloudinary.com/dxukuetdc/image/upload/v1783663310/qij42gwtlddoehn7hvxp.jpg",
+    "contenido": [
+      {
+        "tipo": "subtitulo",
+        "texto": "¿Qué es el Agentic Commerce?"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Imagina tener un asistente personal que no solo te ayuda a elegir qué ropa usar, sino que además puede salir a buscar, comparar precios y hacer la compra por ti. Eso es exactamente lo que ofrece el agentic commerce, un concepto emergente en el comercio digital que reúne la inteligencia artificial (IA) para actuar en tu nombre. En este nuevo entorno, agentes de IA toman decisiones sobre compras, guiándote a través de un laberinto de opciones de manera similar a cómo un experto en compras podría hacerlo."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La revolución del agentic commerce empieza a tomar forma con herramientas como Buy with Pro de Perplexity, que se lanzó a finales de 2024. Este avance permite que un agente compre productos de manera autónoma, algo que transforma la experiencia tradicional de eCommerce. La inteligencia artificial está diseñada para aprender de tus gustos y preferencias, volviéndose cada día más eficaz en la sugerencia de productos que realmente satisfacen tus necesidades."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "La Competencia: Pagos Inteligentes"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En el corazón del agentic commerce, los métodos de pago juegan un papel crucial. El panorama se vuelve más competitivo con gigantes como Visa y Mastercard desarrollando soluciones como Intelligent Commerce y Agent Pay respectivamente. Ambas están diseñadas para facilitar las transacciones a través de agentes de IA, abriendo nuevas oportunidades para los consumidores al simplificar el proceso de compra."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Santander, junto con Mastercard, ha realizado el primer pago agéntico regulado en Europa. Esto subraya la importancia de establecer un ecosistema seguro donde los consumidores se sientan cómodos al permitir que una IA gestione sus adquisiciones. Aunque el 70% de los consumidores expresa que estarían abiertos a este tipo de agentes, la realidad es que solo el 17% se siente realmente cómodo haciendo una compra a través de IA, lo que refleja la necesidad de construir confianza en esta nueva tecnología."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "La Experiencia del Usuario Transformada"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El agentic commerce redefine cómo los usuarios interactúan con las plataformas de compra. Ya no se trata únicamente de navegar por un sitio web, sino de preguntar y recibir respuestas intuitivas de un \"cerebro digital\" que entiende tus preferencias. Este modelo no solo es más eficiente, sino que también libera al consumidor del estrés de clasificar y comparar múltiples opciones."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Google ha dado un paso audaz con el Universal Commerce Protocol, estandarizando la forma en que los agentes de IA se comunican con los comercios. Este protocolo es un esfuerzo colaborativo con actores relevantes en la industria, permitiendo que los agentes realicen funciones que van desde el descubrimiento de productos hasta la gestión de pagos y el servicio postventa. Así, las compras pasan de ser una tarea manual a una conversación delegable, lo que aumenta la confianza del consumidor y facilita decisiones más rápidas."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Los Retos y Oportunidades"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A pesar de la promesa del agentic commerce, no todo es un camino de rosas. Según Gartner, se prevé que más del 40% de los proyectos ligados a este modelo se cancelen antes de 2027. La desconfianza aún es significativa, reflejada en los datos que muestran que solo el 8% de los adultos en Estados Unidos han implementado sistemas de checkout instantáneo. Esto indica que aunque la tecnología está avanzando, la aceptación por parte de los usuarios sigue siendo un obstáculo crítico."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La transición a un modelo donde la IA actúe como embajadora compradora no solo requiere inteligencia tecnológica, sino también un entendimiento profundo de las emociones y necesidades humanas. A medida que las empresas optimizan sus servicios para satisfacer estas expectativas, el agentic commerce tiene el potencial de revolucionar el sector del eCommerce al ofrecer experiencias de compra más personalizadas y efectivas."
+      }
+    ]
+  },
+  {
     "titulo": "El Orquestador de Crecimiento: IA para Equipos Comerciales",
     "meta_descripcion": "Plataformas de agentes IA para marketing y ventas que automatizan prospección y nurturing; ahorran tiempo, elevan conversiones y reducen CAC en medianas empresas.",
     "resumen": "Hoy, 9 de julio de 2026, destaca la aceleración de plataformas de agentes de IA para equipos de marketing y ventas (ej.: Alta, Series A 8 jul 2026). Automatizan prospección, seguimiento y tareas repetitivas, entregando ahorros operativos y mejoras en conversión y coste por cliente. Recomendación: ejecutar un piloto de 60–90 días en dos flujos clave (nurturing y atención inicial) para medir ROI y escalabilidad.",
