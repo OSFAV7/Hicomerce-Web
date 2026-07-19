@@ -1,5 +1,66 @@
 [
   {
+    "titulo": "La Pasarela de Compra por Asistentes (Agentic Commerce)",
+    "meta_descripcion": "Agentic Commerce (agents.json): prepara catálogo y pagos para asistentes de compra y sube ventas en marketplaces en 2026.",
+    "resumen": "La tendencia más prometedora hoy (19 jul 2026) es el Agentic Commerce: asistentes de IA que descubren y compran usando estándares como agents.json, impulsada por anuncios recientes (Wildcard, Jul 17) y adaptaciones de pagos para agentes (Strivve, Jul 18). citeturn1search0turn2search2turn2search1\nPara directivos: es una palanca práctica para optimizar fichas de producto y procesos de pago, aumentar visibilidad y tasa de conversión en marketplaces y reducir CAC sin grandes proyectos técnicos.",
+    "imagen_header": "https://res.cloudinary.com/dxukuetdc/image/upload/v1784440917/pnqd4matihkps6httgwg.jpg",
+    "imagen_footer": "https://res.cloudinary.com/dxukuetdc/image/upload/v1784440937/kii3zjtyap4kqfqjwooc.jpg",
+    "contenido": [
+      {
+        "tipo": "subtitulo",
+        "texto": "El impacto del e-commerce en la economía mexicana"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En el complejo entramado de la economía mexicana, el e-commerce se ha convertido en un motor vital de crecimiento. La digitalización de las ventas no solo ha facilitado el acceso de las empresas a un mercado más amplio, sino que también ha permitido a los consumidores realizar compras de manera más cómoda y eficiente. Con la llegada de la pandemia, esta tendencia se aceleró, llevando a muchas empresas a adoptar estrategias digitales como herramienta para recuperarse de la crisis económica."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Un estudio reciente expone que el e-commerce ha demostrado ser un salvavidas para muchas empresas, ayudándolas a adaptarse a las nuevas realidades del consumo. Las cifras son elocuentes y reflejan una transformación radical en la forma de operar: las ventas a través de plataformas digitales se han incrementado notablemente, lo que posiciona al e-commerce como un pilar fundamental en la reconfiguración económica del país."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Asistentes de IA y su influencia en el comercio"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La aparición de asistentes de inteligencia artificial (IA) ha revolucionado la manera en la que los consumidores interactúan con las marcas. Estos \"empleados digitales\" están diseñados para facilitar el proceso de compra, haciendo que la experiencia del usuario sea más fluida y, a menudo, más satisfactoria. Los consumidores ya no sólo buscan productos a través de palabras clave; ahora utilizan un lenguaje más conversacional, haciendo preguntas extendidas que permiten una mayor variedad de respuestas."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Este cambio en el estilo de búsqueda tiene un efecto directo en la personalización de los resultados. En lugar de presentar una lista única de opciones, los asistentes de IA son capaces de ofrecer recomendaciones basadas en el contexto conversacional del usuario. Así, cada búsqueda se convierte en una experiencia única, un diálogo en el que los consumidores obtienen respuestas adaptadas a sus necesidades específicas."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "La importancia de la visibilidad en este nuevo ecosistema"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En la era del commerce impulsada por IA, la visibilidad de una marca no es opcional; es esencial. Ya no basta con ser encontrado. Las marcas deben ser visibles, relevantes y confiables para el \"smart shopper\", que busca la manera más rápida y efectiva de realizar compras. Este nuevo escenario, conocido como \"compressed commerce\", exige que las empresas no solo estén presentes en línea, sino que naveguen la complejidad de este nuevo ecosistema conversacional."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Para sobrevivir y crecer en este entorno competitivo, las empresas deben adoptar estrategias que les permitan no solo aparecer en las búsquedas, sino también convertirse en la opción preferida. La personalización profunda y el contenido contextualizado juegan un papel fundamental en este proceso. Mientras más adaptados estén los mensajes y ofertas a las expectativas del consumidor, mayores serán las posibilidades de que una marca sea elegida efectivamente."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Oportunidades y desafíos para el e-commerce en México"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Con la implementación del Universal Commerce Protocol (UCP) y protocolos como el Agentic Merchant Protocol (AMP), surgieron nuevas oportunidades para los comercios, especialmente para las startups en México. Estas tecnologías no solo facilitan la visibilidad de productos, sino que también promueven una relación más directa entre los comercios y sus clientes, lo cual es crítico para el éxito en el mercado actual."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Sin embargo, no todo es un camino de rosas. A medida que las empresas se adaptan a estos nuevos protocolos, deben enfrentar desafíos significativos, como el acceso a plataformas de pago y la necesidad de capacitación para equipos y consumidores. La competencia no se limita a los grandes jugadores, y las empresas emergentes tienen la responsabilidad de construir soluciones que no solo sean efectivas, sino también inclusivas y accesibles para todos."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A medida que el e-commerce continúa evolucionando, las empresas deben mantenerse al tanto de las tendencias y adaptaciones del mercado para asegurarse de que su marca no solo sea visible, sino que también construya confianza a largo plazo con sus consumidores."
+      }
+    ]
+  },
+  {
     "titulo": "Conquistador del Buy Box: Motor IA de Repricing y Disponibilidad",
     "meta_descripcion": "Motor IA que combina repricing y predicción de inventario para ganar Buy Box, aumentar ventas y reducir faltantes en PYMES.",
     "resumen": "18 de julio de 2026: la reciente alteración en la elegibilidad del Buy Box y el surgimiento de herramientas IA de repricing e inventario abren una ventana comercial inmediata. Proponga un 'Conquistador del Buy Box' —una solución que automatiza precios y sincroniza stock para aumentar la tasa de conversión, reducir cancelaciones por falta de inventario y proteger el margen— con resultados medibles en semanas y bajo costo de implementación para directivos no técnicos.",
