@@ -1,5 +1,78 @@
 [
   {
+    "titulo": "La Bolsa de Agentes Comerciales: IA que Cierra Ventas en Marketplaces",
+    "meta_descripcion": "Marketplaces de agentes IA que optimizan listings, precios y compras en marketplaces, aumentando ventas y reduciendo costos para pymes.",
+    "resumen": "Los 'agent marketplaces' permiten que agentes de IA autónomos optimicen precios, listings y compras en marketplaces, liberando tiempo del equipo y capturando Buy Box. Para una empresa mediana mexicana esto se traduce en más conversión, menos roturas de stock y ROI medible en pocos meses mediante pilotos de bajo riesgo.",
+    "imagen_header": "https://res.cloudinary.com/dxukuetdc/image/upload/v1784613693/tg0robow07deeuf57qsf.jpg",
+    "imagen_footer": "https://res.cloudinary.com/dxukuetdc/image/upload/v1784613716/dtewqojff96ranozkx57.jpg",
+    "contenido": [
+      {
+        "tipo": "subtitulo",
+        "texto": "El comercio agéntico y su impacto en el futuro de las ventas"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En el dinámico mundo del comercio electrónico, el surgimiento de asistentes de inteligencia artificial (IA) que actúan como agentes comerciales está transformando la manera en que las empresas realizan transacciones. Lo que antes parecía un concepto futurista se ha vuelto una realidad tangible, y el reciente experimento llevado a cabo por Anthropic resalta esta evolución. Con un marketplace donde múltiples instancias de Claude, su modelo de IA, operaron como compradores y vendedores, se demuestra que los agentes comerciales IA están listos para cerrar ventas sin intervención humana."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Esta innovadora visión, denominada comercio agéntico, plantea una oportunidad emocionante para los fundadores de startups y empresas B2B. Según un informe de McKinsey, no es descabellado prever que estos agentes manejarán entre $3-5 billones en comercio global para 2030. Esto implica que los productos y servicios podrían ser adquiridos y negociados por \"empleados digitales\" que nunca duermen, lo que revoluciona la forma en que las empresas interactúan con sus clientes."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "¿Cómo funciona el marketplace de Anthropic?"
+      },
+      {
+        "tipo": "apartado",
+        "texto": "1. La naturaleza del agente como comprador y vendedor"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En el experimento conocido como \"Project Deal\", los empleados de Anthropic usaron IA para negociar entre sí. La conclusión fue clara: la confianza en que los agentes actuaron de manera justa fue alta, un indicativo de que los consumidores empiezan a mirar a estos 'cerebros digitales' con agrado. Cada agente, al igual que un empleado que no necesita descanso, puede analizar productos, negociar precios y cerrar acuerdos sin problemas. Esta capacidad de operar en ambos lados de la transacción permite una eficiencia difícil de lograr con intervención humana."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "2. La infraestructura como limitante actual"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Sin embargo, este avance no está exento de desafíos. Un estudio independiente reveló que solo el 2.2% de las interacciones llevadas a cabo por estos agentes logran concretarse en una compra efectiva. La principal barrera no radica en la inteligencia de estos sistemas, sino en procesos de seguridad obsoletos, como verificación de identidad y sistemas de pago que no fueron diseñados para facilitar transacciones autónomas. Las empresas que deseen aprovechar el comercio agéntico deben primero asegurarse de que su infraestructura tecnológica esté alineada con esta nueva forma de hacer negocios."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "3. Oportunidades para startups"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En medio de esta evolución, las startups tienen la ventaja de ser más ágiles y adaptativas que las grandes corporaciones. Adoptar protocolos abiertos puede ser la clave para abrir nuevas puertas. Los pequeños negocios que reconozcan el potencial de los agentes como aliados pueden no solo sobrevivir, sino florecer en este nuevo ecosistema. Construir un sistema de comercio que facilite la colaboración entre agentes podría convertirse en una de las estrategias más exitosas en el futuro."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Desafíos y tendencias del comercio agéntico"
+      },
+      {
+        "tipo": "apartado",
+        "texto": "1. La transparencia como clave del éxito"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A medida que los agentes de IA se vuelven más comunes, la transparencia del mercado se intensifica. Esto puede representar una amenaza para los minoristas multicanal que dependen de márgenes de ganancia cómodos para sobrevivir. Aquellos que no puedan competir a través de precios, variedad de productos o velocidad en la entrega deberán encontrar formas creativas de diferenciarse que atraigan a estos agentes comerciales, quienes guiados por algoritmos buscarán el mejor valor para sus usuarios."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "2. La necesidad de establecer mecanismos de confianza"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La buena noticia es que mecanismos de confianza como las calificaciones de productos y las reseñas de los consumidores siguen siendo cruciales para atrapar a los consumidores, incluso en un mundo donde los agentes toman decisiones. A medida que estas inteligencias se integran en los procesos de compra, los consumidores buscarán evidencia de calidad y valor a través de estas evaluaciones."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El enfoque hacia el comercio agéntico está configurando el futuro de las transacciones comerciales de una manera que antes parecía inalcanzable. Con cada vez más agentes en juego, incluso aquellos diseñados para reaccionar a eventos en tiempo real, el ecosistema comercial está a punto de experimentar un cambio irreversible hacia un modelo más automatizado y eficiente."
+      }
+    ]
+  },
+  {
     "titulo": "El Orquestador de Mercado: Inventario Predictivo y Creatividad Automatizada",
     "meta_descripcion": "Orquesta n8n+Supabase y LLMs para automatizar inventario, repricing y contenido en marketplaces; reduce stockouts, sube Buy Box y mejora ROI.",
     "resumen": "Empresas medianas están desplegando flujos orquestados (n8n+Supabase+LLMs) para automatizar inventario, repricing y creación de contenido en marketplaces. El resultado para directivos: menos roturas de stock, mayor participación en Buy Box y reducción del tiempo y coste en creatividad, con ROI demostrable en meses.",
