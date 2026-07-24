@@ -1,5 +1,54 @@
 [
   {
+    "titulo": "El Orquestador de Compra Delegada",
+    "meta_descripcion": "Cómo aprovechar agentic commerce (IA que compra por clientes) para aumentar conversiones y reducir costos operativos en medianas empresas.",
+    "resumen": "Tendencia: el 'agentic commerce' —IA que investiga y compra por clientes— recibió impulso el 24 de julio de 2026 por anuncios clave en infraestructura y pagos. Para directivos de medianas empresas mexicanas representa una vía práctica para subir conversiones y recortar costos operativos, siempre que se implementen controles contra fraude y un plan de gobernanza.",
+    "imagen_header": "https://res.cloudinary.com/dxukuetdc/image/upload/v1784872873/b1pqgjxqcemvgxzoogqb.jpg",
+    "imagen_footer": "https://res.cloudinary.com/dxukuetdc/image/upload/v1784872895/xpmnpgq8kjlxcxqlpoyv.jpg",
+    "contenido": [
+      {
+        "tipo": "subtitulo",
+        "texto": "Comprendiendo el Contexto del Fraude en Latinoamérica"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En un mundo cada vez más digital, las compras no presenciales han cobrado protagonismo, llevando a un incremento en el fraude, especialmente en su versión más sutil: el fraude amistoso. Este problema no discrimina, afectando incluso a aquellas empresas que cuentan con altos estándares de seguridad financiera. La pandemia sirvió como catalizador para la llegada de nuevos comercios y consumidores, cada uno con distintos niveles de comprensión sobre cómo detectar y prevenir estas prácticas fraudulentas. Natalia Hernández, consultora senior en AMI, destaca que esta situación ha llevado a un entorno donde las fricciones entre consumidores y comercios, sumadas al desconocimiento, contribuyen al aumento del fraude en la región."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "El Papel de las Fricciones en las Compras"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Las fricciones juegan un papel crucial en la cadena de fraude amistoso. Según Raúl Ferro de Ethoca by Mastercard, un impactante 77% de las personas tiene dificultades al intentar identificar transacciones en sus estados de cuenta. Este estado de confusión se convierte en el primer eslabón del problema. Una vez que el consumidor no reconoce un cargo, a menudo recurre a su emisor de tarjeta para resolver la disputa. Sin embargo, se ha detectado que 1 de cada 4 disputas que llegan a atención telefónica son, en realidad, confusiones sobre la descripción de las transacciones. Esto subraya la importancia de mejorar la claridad y la comunicación en cada etapa de la experiencia de compra."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "La Revolución del Agentic Commerce"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Mientras tanto, el concepto de \"agentic commerce\" se presenta como una solución a muchos de estos problemas. Esta nueva forma de comercio, que utiliza inteligencia artificial para automatizar procesos de compra, está redefiniendo la experiencia del consumidor al hacerla más fluida y eficiente. Imagina tener un empleado que no duerme, capaz de analizar tendencias de compra y optimizar las decisiones en tiempo real. Empresas como Amazon ya han comenzado a implementar estas tecnologías, lo que sugiere que el futuro del comercio podría estar más cerca de lo que pensamos."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "¿Cómo Funciona el Agentic Commerce?"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Al adoptar el agentic commerce, los comerciantes pueden utilizar datos para obtener percepciones valiosas sobre las intenciones de compra de los consumidores. Esto se traduce en una mejor comprensión de sus necesidades, permitiendo a las empresas personalizar sus ofertas. Por ejemplo, si un AI \"comprador\" detecta que un segmento de clientes responde mejor a vídeos en lugar de imágenes estáticas, puede automáticamente cambiar la estrategia de publicidad para adaptarse a estas preferencias. Esta flexibilidad no solo mejora la experiencia del usuario, sino que también minimiza la posibilidad de confusiones que pueden derivar en fraudes amistosos."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Preparándose para el Futuro"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En este escenario, es crucial que las empresas se preparen para la llegada del agentic commerce. La transición no será instantánea, ya que aún hay una porción significativa de consumidores que es reacia a entregar el control de sus compras a la inteligencia artificial. Sin embargo, el avance hacia esta tendencia es innegable. Incorporar tecnologías que faciliten este tipo de compras delegadas podría ser la clave para reducir las disputas y mejorar la satisfacción del cliente, lo que sería un paso importante hacia un comercio más seguro y eficiente."
+      }
+    ]
+  },
+  {
     "titulo": "El Cierre Invisible: Checkout Universal en Asistentes de IA",
     "meta_descripcion": "Checkout universal en ChatGPT (22 Jul 2026): reduce fricción, sube conversiones y simplifica ventas omnicanal para medianas empresas.",
     "resumen": "Un nuevo movimiento (plugin de checkout universal en ChatGPT, 22 jul 2026) permite que asistentes de IA completen compras sin salir del chat. Para un directivo de empresa mediana esto significa menos abandono de carrito, mayor conversión y una vía rápida para vender en canales emergentes sin reingeniería profunda.",
