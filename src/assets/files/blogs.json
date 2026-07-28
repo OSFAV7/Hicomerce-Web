@@ -1,5 +1,70 @@
 [
   {
+    "titulo": "El Comprador Delegado: Motor de Conversión para Marketplaces",
+    "meta_descripcion": "Comercio autónomo por IA en marketplaces: aumenta conversión y ticket medio; requiere controles de pago y optimización de inventario.",
+    "resumen": "Hoy (28 jul 2026) destaca el avance del \"agentic commerce\": IA que ejecuta compras en nombre del cliente en marketplaces. Para un directivo, la oportunidad es clara —más conversión y ticket medio con ahorro operativo— vendible como paquete: autenticidad de agentes, optimización de listings para búsquedas conversacionales y previsión de inventario para bajar devoluciones.",
+    "imagen_header": "https://res.cloudinary.com/dxukuetdc/image/upload/v1785218490/jelwtubyhu3txe7kswaj.jpg",
+    "imagen_footer": "https://res.cloudinary.com/dxukuetdc/image/upload/v1785218513/aj2povpz05tzh79j1wff.jpg",
+    "contenido": [
+      {
+        "tipo": "subtitulo",
+        "texto": "¿Qué es el Agentic Commerce?"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En la era digital actual, la forma en que compramos está evolucionando drásticamente. El concepto de Agentic Commerce, o comercio agéntico, emerge como un nuevo paradigma donde los agentes de inteligencia artificial (IA) actúan como compradores delegados en nombre de los consumidores. En lugar de navegar por múltiples páginas web y hacer clic en botones de compra, un \"cerebro digital\" toma decisiones basadas en las preferencias y directrices que el usuario ha establecido."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La dinámica tradicional de compra, donde el comprador era el protagonista absoluto, está cambiando. Hoy en día, estos agentes de IA son capaces de interpretar instrucciones en lenguaje natural y realizar comparaciones sofisticadas entre precios, calidades y otros atributos relevantes. Este avance promueve una experiencia de compra significativamente más eficiente, que a menudo se traduce en un aumento en la conversión y en la satisfacción del cliente."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Ventajas del Agentic Commerce en el B2B"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A medida que el Agentic Commerce se adopta en el sector B2B, su impacto es igualmente profundo aunque con matices distintos. Los compradores delegados en este ámbito no pasan por la fase de creación de consciencia sobre la marca; en su lugar, buscan solucionar problemas inmediatos y evalúan proveedores al consultar la información que las IA pueden ofrecer. Este cambio arroja una nueva luz sobre cómo las empresas pueden interactuar y adquirir servicios o productos."
+      },
+      {
+        "tipo": "apartado",
+        "texto": "La evolución de la búsqueda de proveedores"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En el contexto de los servicios profesionales, la relevancia de ser descubierto y cualificado por un agente de IA es crucial. La transformación que esto implica está relacionada con la evolución de las estrategias de SEO hacia el “GEO”, donde no solo se evalúa la visibilidad de una empresa en la web, sino su capacidad de ser incluido en las respuestas generadas por estos agentes. La competencia ya no se fundamenta exclusivamente en palabras clave, sino en la habilidad de facilitar que un agente encuentre y presente la propuesta de valor de la empresa."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Desafíos de la compra a través de un agente de IA"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No obstante, surge una pregunta vital: ¿Es seguro comprar a través de un agente de IA? Aunque los protocolos actuales, como el ACP y el AP2, establecen medidas de seguridad como mandatos criptográficos y confirmaciones humanas, solo un 17% de los consumidores se sienten cómodos con la idea de completar una compra exclusivamente mediante inteligencia artificial. Este dato destaca la necesidad de que las empresas trabajen en la construcción de confianza en la tecnología y en la regulación que garantice la responsabilidad y el consentimiento en las transacciones automatizadas."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Implicaciones del Agentic Commerce para tu negocio"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En este contexto, la pregunta para las empresas es cómo adaptarse a este nuevo escenario donde los compradores delegados serán cada vez más comunes. Las marcas deberán centrarse en ser operables por agentes, lo que implica mejorar la estructura de datos, la claridad en las políticas y la eliminación de fricciones en los procesos de checkout. En un mundo donde el 45% de los consumidores ya utilizan IA en algún punto de su proceso de compra para 2026, la transición hacia el Agentic Commerce no es solo deseable, es esencial."
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ser comprensibles y accesibles para estos \"empleados que no duermen\" es clave. Las empresas deben asegurarse de que su información sea clara, estructurada y fácil de interpretar por estas inteligencias artificiales. Esto no solo mejorará la experiencia del consumidor, sino que también facilitará que los productos y servicios sean recomendados con mayor eficacia, impulsando así las conversiones y el crecimiento del negocio."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Conclusión de la Transformación del eCommerce"
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El Agentic Commerce representa un cambio radical que transformará la forma en que compramos y vendemos. A medida que esta modalidad de compras se populariza, las empresas deberán estar preparadas para hacer frente a retos y aprovechar oportunidades que antes no eran visibles. Adaptarse a esta nueva realidad será fundamental para mantener la competitividad y satisfacer las expectativas cambiantes de los consumidores en un mercado cada vez más impulsado por la inteligencia artificial."
+      }
+    ]
+  },
+  {
     "titulo": "Orquestador Autónomo de Conversión en Marketplaces",
     "meta_descripcion": "IA autónoma que impulsa ventas en marketplaces, reduce devoluciones y mitiga fraude; mensaje claro para directivos (27 Jul 2026).",
     "resumen": "Tendencia observada el 27 de julio de 2026: agentes de IA que ejecutan búsquedas, comparan ofertas y completan compras en marketplaces generan conversiones y operan decisiones de devoluciones. Para un directivo de empresa mediana esto se traduce en mayor tasa de venta, reducción de ACOS y menores costes de logística por devoluciones, siempre que se implemente con gobernanza (Agent Trust) y controles de riesgo.",
