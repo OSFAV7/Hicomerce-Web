@@ -1,36 +1,31 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-import localBlogs from "../assets/files/blogs.json";
 import { createSlug, cleanMarkdown } from "../utils/blogHelpers";
 import { API_BASE_URL } from "../config/api";
 
 function BlogsComponent() {
-  const [blogsList, setBlogsList] = useState(localBlogs);
+  const [blogsList, setBlogsList] = useState([]);
   const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
 
   useEffect(() => {
-    const controller = new AbortController();
-    const timeoutId = setTimeout(() => controller.abort(), 3000);
-
-    fetch(`${API_BASE_URL}/blogs/all?raw=true`, { signal: controller.signal })
+    fetch(`${API_BASE_URL}/blogs/all?raw=true`)
       .then((res) => {
-        if (!res.ok) throw new Error("Error al obtener blogs de la API");
+        if (!res.ok) throw new Error("Error al consultar la API de blogs");
         return res.json();
       })
       .then((data) => {
-        if (Array.isArray(data) && data.length > 0) {
+        if (Array.isArray(data)) {
           setBlogsList(data);
         }
       })
       .catch((err) => {
-        console.warn("API no disponible en este momento, mostrando datos locales:", err.message);
+        console.error("Error al obtener blogs:", err.message);
+        setError("No se pudieron cargar los blogs desde la base de datos.");
       })
       .finally(() => {
-        clearTimeout(timeoutId);
         setLoading(false);
       });
-
-    return () => clearTimeout(timeoutId);
   }, []);
 
   return (
@@ -46,6 +41,12 @@ function BlogsComponent() {
         {loading && (
           <div style={{ textAlign: "center", padding: "40px", color: "#666" }}>
             Cargando artículos...
+          </div>
+        )}
+
+        {error && (
+          <div style={{ textAlign: "center", padding: "20px", color: "#e11d48" }}>
+            {error}
           </div>
         )}
 
