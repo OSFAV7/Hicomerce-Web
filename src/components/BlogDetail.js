@@ -18,8 +18,11 @@ function BlogDetail() {
   const [loading, setLoading] = useState(!localMatch);
 
   useEffect(() => {
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), 3000);
+
     // Consultar el blog individual desde el Backend en la nube
-    fetch(`${API_BASE_URL}/blogs/${encodeURIComponent(slug)}`)
+    fetch(`${API_BASE_URL}/blogs/${encodeURIComponent(slug)}`, { signal: controller.signal })
       .then((res) => {
         if (!res.ok) throw new Error("Blog no encontrado en API");
         return res.json();
@@ -33,6 +36,7 @@ function BlogDetail() {
         console.warn("No se pudo obtener el blog dinámico de la API, usando respaldo:", err.message);
       })
       .finally(() => {
+        clearTimeout(timeoutId);
         setLoading(false);
       });
 
@@ -65,6 +69,16 @@ function BlogDetail() {
     };
   }, [slug]);
 
+
+  if (loading && !blog) {
+    return (
+      <section style={styles.notFoundSection}>
+        <div style={styles.notFoundContainer}>
+          <p style={styles.notFoundText}>Cargando artículo...</p>
+        </div>
+      </section>
+    );
+  }
 
   if (!blog) {
     return (

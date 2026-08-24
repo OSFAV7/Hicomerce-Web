@@ -9,7 +9,10 @@ function BlogsComponent() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch(`${API_BASE_URL}/blogs/all?raw=true`)
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), 3000);
+
+    fetch(`${API_BASE_URL}/blogs/all?raw=true`, { signal: controller.signal })
       .then((res) => {
         if (!res.ok) throw new Error("Error al obtener blogs de la API");
         return res.json();
@@ -20,11 +23,14 @@ function BlogsComponent() {
         }
       })
       .catch((err) => {
-        console.warn("API de blogs no disponible, utilizando respaldo local:", err.message);
+        console.warn("API no disponible en este momento, mostrando datos locales:", err.message);
       })
       .finally(() => {
+        clearTimeout(timeoutId);
         setLoading(false);
       });
+
+    return () => clearTimeout(timeoutId);
   }, []);
 
   return (
