@@ -1,9 +1,32 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-import blogs from "../assets/files/blogs.json";
+import localBlogs from "../assets/files/blogs.json";
 import { createSlug, cleanMarkdown } from "../utils/blogHelpers";
+import { API_BASE_URL } from "../config/api";
 
 function BlogsComponent() {
+  const [blogsList, setBlogsList] = useState(localBlogs);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    fetch(`${API_BASE_URL}/blogs/all?raw=true`)
+      .then((res) => {
+        if (!res.ok) throw new Error("Error al obtener blogs de la API");
+        return res.json();
+      })
+      .then((data) => {
+        if (Array.isArray(data) && data.length > 0) {
+          setBlogsList(data);
+        }
+      })
+      .catch((err) => {
+        console.warn("API de blogs no disponible, utilizando respaldo local:", err.message);
+      })
+      .finally(() => {
+        setLoading(false);
+      });
+  }, []);
+
   return (
     <section style={styles.section}>
       <div style={styles.container}>
@@ -14,12 +37,18 @@ function BlogsComponent() {
           </p>
         </div>
 
+        {loading && (
+          <div style={{ textAlign: "center", padding: "40px", color: "#666" }}>
+            Cargando artículos...
+          </div>
+        )}
+
         <div style={styles.grid}>
-          {blogs.map((blog, index) => {
-            const slug = createSlug(blog.titulo);
+          {blogsList.map((blog, index) => {
+            const slug = blog.slug || createSlug(blog.titulo);
 
             return (
-              <article key={index} style={styles.card}>
+              <article key={blog.id || index} style={styles.card}>
                 {blog.imagen_header && (
                   <img
                     src={blog.imagen_header}

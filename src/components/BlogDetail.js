@@ -1,7 +1,8 @@
 import React, { useState, useEffect, useRef } from "react";
 import { Link, useParams } from "react-router-dom";
-import blogs from "../assets/files/blogs.json";
+import localBlogs from "../assets/files/blogs.json";
 import { createSlug, cleanMarkdown } from "../utils/blogHelpers";
+import { API_BASE_URL } from "../config/api";
 
 
 function BlogDetail() {
@@ -10,10 +11,31 @@ function BlogDetail() {
   const footerRef = useRef(null);
 
   const [isMobile, setIsMobile] = useState(false);
-
-  const blog = blogs.find((item) => createSlug(item.titulo) === slug);
+  
+  // Buscar local como respaldo inicial
+  const localMatch = localBlogs.find((item) => (item.slug || createSlug(item.titulo)) === slug);
+  const [blog, setBlog] = useState(localMatch || null);
+  const [loading, setLoading] = useState(!localMatch);
 
   useEffect(() => {
+    // Consultar el blog individual desde el Backend en la nube
+    fetch(`${API_BASE_URL}/blogs/${encodeURIComponent(slug)}`)
+      .then((res) => {
+        if (!res.ok) throw new Error("Blog no encontrado en API");
+        return res.json();
+      })
+      .then((json) => {
+        if (json.success && json.data) {
+          setBlog(json.data);
+        }
+      })
+      .catch((err) => {
+        console.warn("No se pudo obtener el blog dinámico de la API, usando respaldo:", err.message);
+      })
+      .finally(() => {
+        setLoading(false);
+      });
+
     // Detectar si es móvil
     const checkMobile = () => {
       setIsMobile(window.innerWidth < 768);
@@ -41,7 +63,7 @@ function BlogDetail() {
       window.removeEventListener("resize", checkMobile);
       if (footerElement) observer.unobserve(footerElement);
     };
-  }, []);
+  }, [slug]);
 
 
   if (!blog) {
