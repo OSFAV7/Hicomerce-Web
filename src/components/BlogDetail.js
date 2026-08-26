@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import { Link, useParams } from "react-router-dom";
-import blogs from "../assets/files/blogs.json";
-import { createSlug, cleanMarkdown } from "../utils/blogHelpers";
+import { cleanMarkdown } from "../utils/blogHelpers";
+import { API_BASE_URL } from "../config/api";
 
 
 function BlogDetail() {
@@ -10,10 +10,28 @@ function BlogDetail() {
   const footerRef = useRef(null);
 
   const [isMobile, setIsMobile] = useState(false);
-
-  const blog = blogs.find((item) => createSlug(item.titulo) === slug);
+  const [blog, setBlog] = useState(null);
+  const [loading, setLoading] = useState(true);
 
   useEffect(() => {
+    // Consultar el blog individual desde la API del backend
+    fetch(`${API_BASE_URL}/blogs/${encodeURIComponent(slug)}`)
+      .then((res) => {
+        if (!res.ok) throw new Error("Blog no encontrado en API");
+        return res.json();
+      })
+      .then((json) => {
+        if (json.success && json.data) {
+          setBlog(json.data);
+        }
+      })
+      .catch((err) => {
+        console.error("No se pudo obtener el blog desde la API:", err.message);
+      })
+      .finally(() => {
+        setLoading(false);
+      });
+
     // Detectar si es móvil
     const checkMobile = () => {
       setIsMobile(window.innerWidth < 768);
@@ -41,8 +59,18 @@ function BlogDetail() {
       window.removeEventListener("resize", checkMobile);
       if (footerElement) observer.unobserve(footerElement);
     };
-  }, []);
+  }, [slug]);
 
+
+  if (loading && !blog) {
+    return (
+      <section style={styles.notFoundSection}>
+        <div style={styles.notFoundContainer}>
+          <p style={styles.notFoundText}>Cargando artículo...</p>
+        </div>
+      </section>
+    );
+  }
 
   if (!blog) {
     return (
